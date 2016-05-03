@@ -1,0 +1,575 @@
+﻿@article{
+   author = {Book, A. J. and Gladman, N. P. and Lee, S. S. and Scalf, M. and Smith, L. M. and Vierstra, R. D.},
+   title = {Affinity purification of the Arabidopsis 26S proteasome reveals a diverse array of plant proteolytic complexes},
+   journal = {J. Biol. Chem.},
+   volume = {285},
+   number = {33},
+   pages = {25554-25569},
+   keywords = {Arabidopsis/*metabolism
+Arabidopsis Proteins/chemistry/*metabolism
+Chromatography, High Pressure Liquid
+Electrophoresis, Polyacrylamide Gel
+Mass Spectrometry
+Proteasome Endopeptidase Complex/chemistry/*metabolism
+Spectrometry, Mass, Electrospray Ionization
+Tandem Mass Spectrometry},
+   ISSN = {1083-351X (Electronic)
+0021-9258 (Linking)},
+   DOI = {10.1074/jbc.M110.136622},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/20516081},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Cox, J. and Hein, M. Y. and Luber, C. A. and Paron, I. and Nagaraj, N. and Mann, M.},
+   title = {Accurate proteome-wide label-free quantification by delayed normalization and maximal peptide ratio extraction, termed MaxLFQ},
+   journal = {Mol. Cell. Proteomics},
+   volume = {13},
+   number = {9},
+   pages = {2513-2526},
+   keywords = {*Algorithms
+Escherichia coli/metabolism
+HeLa Cells
+Humans
+Peptides/analysis
+Proteins/*analysis
+Proteome
+Proteomics/*methods
+Software},
+   ISSN = {1535-9484 (Electronic)
+1535-9476 (Linking)},
+   DOI = {10.1074/mcp.M113.031591},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/24942700},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Craig, R. and Beavis, R. C.},
+   title = {TANDEM: matching proteins with tandem mass spectra},
+   journal = {Bioinformatics},
+   volume = {20},
+   number = {9},
+   pages = {1466-1467},
+   keywords = {*Algorithms
+Databases, Protein
+Information Storage and Retrieval/*methods
+Mass Spectrometry/*methods
+Proteins/*analysis/*chemistry
+Sequence Alignment/methods
+Sequence Analysis, Protein/*methods
+Sequence Homology, Amino Acid
+*Software},
+   ISSN = {1367-4803 (Print)
+1367-4803 (Linking)},
+   DOI = {10.1093/bioinformatics/bth092},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/14976030},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Deutsch, E. W. and Mendoza, L. and Shteynberg, D. and Farrah, T. and Lam, H. and Tasman, N. and Sun, Z. and Nilsson, E. and Pratt, B. and Prazen, B. and Eng, J. K. and Martin, D. B. and Nesvizhskii, A. I. and Aebersold, R.},
+   title = {A guided tour of the Trans-Proteomic Pipeline},
+   journal = {Proteomics},
+   volume = {10},
+   number = {6},
+   pages = {1150-1159},
+   keywords = {Computational Biology
+*Databases, Protein
+Information Storage and Retrieval
+Isotope Labeling
+Proteomics/*methods
+Sequence Analysis, Protein
+*Software
+Tandem Mass Spectrometry},
+   ISSN = {1615-9861 (Electronic)
+1615-9853 (Linking)},
+   DOI = {10.1002/pmic.200900375},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/20101611},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Fermin, D. and Basrur, V. and Yocum, A. K. and Nesvizhskii, A. I.},
+   title = {ABACUS: a computational tool for extracting and pre-processing spectral count data for label-free quantitative proteomic analysis},
+   journal = {Proteomics},
+   volume = {11},
+   number = {7},
+   pages = {1340-1345},
+   keywords = {Automation, Laboratory
+Computational Biology/*methods
+Databases, Protein
+Humans
+Proteins/*analysis
+Proteomics/*methods
+Sequence Analysis, Protein
+Software
+Tandem Mass Spectrometry},
+   ISSN = {1615-9861 (Electronic)
+1615-9853 (Linking)},
+   DOI = {10.1002/pmic.201000650},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/21360675},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Gerber, S. A. and Rush, J. and Stemman, O. and Kirschner, M. W. and Gygi, S. P.},
+   title = {Absolute quantification of proteins and phosphoproteins from cell lysates by tandem MS},
+   journal = {Proc. Natl. Acad. Sci. USA},
+   volume = {100},
+   number = {12},
+   pages = {6940-6945},
+   keywords = {Amino Acid Sequence
+Animals
+Binding Sites
+Cell Cycle Proteins/analysis/chemistry/metabolism
+*Endopeptidases
+HeLa Cells
+Histone Deacetylases/analysis
+Horses
+Humans
+In Vitro Techniques
+Mass Spectrometry/*methods
+Molecular Sequence Data
+Myoglobin/analysis
+Phosphoproteins/*analysis
+Phosphorylation
+Protein Kinases/metabolism
+Proteins/*analysis
+Saccharomyces cerevisiae Proteins
+Separase
+Silent Information Regulator Proteins, Saccharomyces cerevisiae/analysis
+Sirtuin 2
+Sirtuins/analysis},
+   ISSN = {0027-8424 (Print)
+0027-8424 (Linking)},
+   DOI = {10.1073/pnas.0832254100},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/12771378},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Keller, A. and Nesvizhskii, A. I. and Kolker, E. and Aebersold, R.},
+   title = {Empirical statistical model to estimate the accuracy of peptide identifications made by MS/MS and database search},
+   journal = {Anal. Chem.},
+   volume = {74},
+   number = {20},
+   pages = {5383-5392},
+   keywords = {Algorithms
+Databases, Factual
+Mass Spectrometry
+Models, Statistical
+Peptides/*analysis},
+   ISSN = {0003-2700 (Print)
+0003-2700 (Linking)},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/12403597},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Krey, J. F. and Wilmarth, P. A. and Shin, J. B. and Klimek, J. and Sherman, N. E. and Jeffery, E. D. and Choi, D. and David, L. L. and Barr-Gillespie, P. G.},
+   title = {Accurate label-free protein quantitation with high- and low-resolution mass spectrometers},
+   journal = {J. Proteome Res.},
+   volume = {13},
+   number = {2},
+   pages = {1034-1044},
+   keywords = {Humans
+Mass Spectrometry/*instrumentation
+Proteins/*analysis},
+   ISSN = {1535-3907 (Electronic)
+1535-3893 (Linking)},
+   DOI = {10.1021/pr401017h},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/24295401},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Mosley, A. L. and Sardiu, M. E. and Pattenden, S. G. and Workman, J. L. and Florens, L. and Washburn, M. P.},
+   title = {Highly reproducible label free quantitative proteomic analysis of RNA polymerase complexes},
+   journal = {Mol. Cell. Proteomics},
+   volume = {10},
+   number = {2},
+   pages = {M110 000687},
+   keywords = {Cluster Analysis
+DNA-Directed RNA Polymerases/*chemistry
+Mass Spectrometry/methods
+Models, Statistical
+Peptides/chemistry
+Proteins/chemistry
+Proteomics/*methods
+RNA/chemistry
+Reproducibility of Results
+Saccharomyces cerevisiae/metabolism
+Saccharomyces cerevisiae Proteins/chemistry
+Sequence Analysis, Protein/methods},
+   ISSN = {1535-9484 (Electronic)
+1535-9476 (Linking)},
+   DOI = {10.1074/mcp.M110.000687},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/21048197},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Nesvizhskii, A. I. and Keller, A. and Kolker, E. and Aebersold, R.},
+   title = {A statistical model for identifying proteins by tandem mass spectrometry},
+   journal = {Anal. Chem.},
+   volume = {75},
+   number = {17},
+   pages = {4646-4658},
+   keywords = {Amino Acid Sequence
+Humans
+Mass Spectrometry/*methods
+*Models, Statistical
+Molecular Sequence Data
+Peptides/analysis/chemistry
+Proteins/*analysis/*chemistry},
+   ISSN = {0003-2700 (Print)
+0003-2700 (Linking)},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/14632076},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Ong, S. E. and Blagoev, B. and Kratchmarova, I. and Kristensen, D. B. and Steen, H. and Pandey, A. and Mann, M.},
+   title = {Stable isotope labeling by amino acids in cell culture, SILAC, as a simple and accurate approach to expression proteomics},
+   journal = {Mol. Cell. Proteomics},
+   volume = {1},
+   number = {5},
+   pages = {376-386},
+   keywords = {3T3 Cells
+Amino Acids/metabolism
+Animals
+Cell Culture Techniques/*methods
+Cell Differentiation
+Cell Line
+Deuterium/metabolism
+*Genetic Techniques
+Hydrogen-Ion Concentration
+Leucine/metabolism
+Mice
+Muscles/cytology
+Peptides/chemistry
+Proteomics/*methods
+Time Factors
+Up-Regulation},
+   ISSN = {1535-9476 (Print)
+1535-9476 (Linking)},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/12118079},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Ross, P. L. and Huang, Y. N. and Marchese, J. N. and Williamson, B. and Parker, K. and Hattan, S. and Khainovski, N. and Pillai, S. and Dey, S. and Daniels, S. and Purkayastha, S. and Juhasz, P. and Martin, S. and Bartlet-Jones, M. and He, F. and Jacobson, A. and Pappin, D. J.},
+   title = {Multiplexed protein quantitation in Saccharomyces cerevisiae using amine-reactive isobaric tagging reagents},
+   journal = {Mol. Cell. Proteomics},
+   volume = {3},
+   number = {12},
+   pages = {1154-1169},
+   keywords = {Cations
+Chromatography, Ion Exchange
+Chromatography, Liquid
+Down-Regulation
+Exoribonucleases/metabolism
+Fungal Proteins/chemistry
+Indicators and Reagents/pharmacology
+Ions
+Mass Spectrometry
+Models, Chemical
+Peptides/chemistry
+Phenotype
+Proteomics/*methods
+RNA Helicases/metabolism
+RNA, Messenger/metabolism
+Saccharomyces cerevisiae/*metabolism
+Saccharomyces cerevisiae Proteins/*chemistry/metabolism
+Succinimides/chemistry},
+   ISSN = {1535-9476 (Print)
+1535-9476 (Linking)},
+   DOI = {10.1074/mcp.M400129-MCP200},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/15385600},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Russell, J. D. and Scalf, M. and Book, A. J. and Ladror, D. T. and Vierstra, R. D. and Smith, L. M. and Coon, J. J.},
+   title = {Characterization and quantification of intact 26S proteasome proteins by real-time measurement of intrinsic fluorescence prior to top-down mass spectrometry},
+   journal = {PLoS One},
+   volume = {8},
+   number = {3},
+   pages = {e58157},
+   keywords = {Amino Acid Sequence
+Arabidopsis/chemistry
+Arabidopsis Proteins/analysis/chemistry
+Carrier Proteins/analysis/chemistry
+Fluorescence
+*Mass Spectrometry/methods
+Proteasome Endopeptidase Complex/analysis/*chemistry
+Proteins/analysis/*chemistry
+Reproducibility of Results
+Tandem Mass Spectrometry},
+   ISSN = {1932-6203 (Electronic)
+1932-6203 (Linking)},
+   DOI = {10.1371/journal.pone.0058157},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/23536786},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Thompson, A. and Schafer, J. and Kuhn, K. and Kienle, S. and Schwarz, J. and Schmidt, G. and Neumann, T. and Johnstone, R. and Mohammed, A. K. and Hamon, C.},
+   title = {Tandem mass tags: a novel quantification strategy for comparative analysis of complex protein mixtures by MS/MS},
+   journal = {Anal. Chem.},
+   volume = {75},
+   number = {8},
+   pages = {1895-1904},
+   keywords = {Isotopes
+Mass Spectrometry/*methods
+Molecular Probes
+Peptides/analysis/isolation & purification
+Proteins/*analysis},
+   ISSN = {0003-2700 (Print)
+0003-2700 (Linking)},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/12713048},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Tu, C. and Li, J. and Sheng, Q. and Zhang, M. and Qu, J.},
+   title = {Systematic assessment of survey scan and MS2-based abundance strategies for label-free quantitative proteomics using high-resolution MS data},
+   journal = {J. Proteome Res.},
+   volume = {13},
+   number = {4},
+   pages = {2069-2079},
+   keywords = {Animals
+Databases, Protein
+Humans
+Ions/analysis/chemistry
+Proteins/analysis/chemistry
+Proteomics/*methods
+Rats
+Reproducibility of Results
+Sensitivity and Specificity
+Tandem Mass Spectrometry/*methods},
+   ISSN = {1535-3907 (Electronic)
+1535-3893 (Linking)},
+   DOI = {10.1021/pr401206m},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/24635752},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Vizcaino, J. A. and Cote, R. G. and Csordas, A. and Dianes, J. A. and Fabregat, A. and Foster, J. M. and Griss, J. and Alpi, E. and Birim, M. and Contell, J. and O'Kelly, G. and Schoenegger, A. and Ovelleiro, D. and Perez-Riverol, Y. and Reisinger, F. and Rios, D. and Wang, R. and Hermjakob, H.},
+   title = {The PRoteomics IDEntifications (PRIDE) database and associated tools: status in 2013},
+   journal = {Nucleic Acids Res.},
+   volume = {41},
+   number = {Database issue},
+   pages = {D1063-9},
+   note = {Vizcaino, Juan Antonio
+Cote, Richard G
+Csordas, Attila
+Dianes, Jose A
+Fabregat, Antonio
+Foster, Joseph M
+Griss, Johannes
+Alpi, Emanuele
+Birim, Melih
+Contell, Javier
+O'Kelly, Gavin
+Schoenegger, Andreas
+Ovelleiro, David
+Perez-Riverol, Yasset
+Reisinger, Florian
+Rios, Daniel
+Wang, Rui
+Hermjakob, Henning
+eng
+BB/I024204/1/Biotechnology and Biological Sciences Research Council/United Kingdom
+WT085949MA/Wellcome Trust/United Kingdom
+Research Support, Non-U.S. Gov't
+England
+2012/12/04 06:00
+Nucleic Acids Res. 2013 Jan;41(Database issue):D1063-9. doi: 10.1093/nar/gks1262. Epub 2012 Nov 29.},
+   abstract = {The PRoteomics IDEntifications (PRIDE, http://www.ebi.ac.uk/pride) database at the European Bioinformatics Institute is one of the most prominent data repositories of mass spectrometry (MS)-based proteomics data. Here, we summarize recent developments in the PRIDE database and related tools. First, we provide up-to-date statistics in data content, splitting the figures by groups of organisms and species, including peptide and protein identifications, and post-translational modifications. We then describe the tools that are part of the PRIDE submission pipeline, especially the recently developed PRIDE Converter 2 (new submission tool) and PRIDE Inspector (visualization and analysis tool). We also give an update about the integration of PRIDE with other MS proteomics resources in the context of the ProteomeXchange consortium. Finally, we briefly review the quality control efforts that are ongoing at present and outline our future plans.},
+   keywords = {*Databases, Protein
+Internet
+Mass Spectrometry
+Peptides/chemistry/metabolism
+Proteins/chemistry/metabolism
+*Proteomics
+Software},
+   ISSN = {1362-4962 (Electronic)
+0305-1048 (Linking)},
+   DOI = {10.1093/nar/gks1262},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/23203882},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Wenger, C. D. and Coon, J. J.},
+   title = {A proteomics search algorithm specifically designed for high-resolution tandem mass spectra},
+   journal = {J. Proteome Res.},
+   volume = {12},
+   number = {3},
+   pages = {1377-1386},
+   keywords = {*Algorithms
+Chromatography, Liquid
+Escherichia coli Proteins/isolation & purification/metabolism
+Humans
+*Proteomics
+Saccharomyces cerevisiae Proteins/isolation & purification/metabolism
+Tandem Mass Spectrometry/*methods},
+   ISSN = {1535-3907 (Electronic)
+1535-3893 (Linking)},
+   DOI = {10.1021/pr301024c},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/23323968
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3586292/pdf/nihms439262.pdf},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Wong, J. W. and Cagney, G.},
+   title = {An overview of label-free quantitation methods in proteomics by mass spectrometry},
+   journal = {Methods Mol. Biol.},
+   volume = {604},
+   pages = {273-283},
+   keywords = {Chromatography, Liquid/methods
+Ions/analysis
+Mass Spectrometry/*methods
+Proteins/*analysis
+Proteomics/*methods},
+   ISSN = {1940-6029 (Electronic)
+1064-3745 (Linking)},
+   DOI = {10.1007/978-1-60761-444-9_18},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/20013377},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Yang, P. and Fu, H. and Walker, J. and Papa, C. M. and Smalle, J. and Ju, Y. M. and Vierstra, R. D.},
+   title = {Purification of the Arabidopsis 26S proteasome: biochemical and molecular analyses revealed the presence of multiple isoforms},
+   journal = {J. Biol. Chem.},
+   volume = {279},
+   number = {8},
+   pages = {6401-6413},
+   keywords = {Adenosine Triphosphatases/chemistry
+Arabidopsis/genetics/*metabolism
+Binding Sites
+Cysteine Endopeptidases
+Databases, Genetic
+Dose-Response Relationship, Drug
+Electrophoresis, Gel, Two-Dimensional
+Electrophoresis, Polyacrylamide Gel
+Enzyme Inhibitors/pharmacology
+Fungal Proteins/metabolism
+Genetic Complementation Test
+Genetic Vectors
+Immunoblotting
+Mass Spectrometry
+Molecular Sequence Data
+Multienzyme Complexes/antagonists & inhibitors
+Mutation
+Peptide Hydrolases/*chemistry/genetics/*isolation & purification
+Proteasome Endopeptidase Complex
+Protein Isoforms
+Protein Structure, Tertiary
+Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization
+Temperature},
+   ISSN = {0021-9258 (Print)
+0021-9258 (Linking)},
+   DOI = {10.1074/jbc.M311977200},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/14623884},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Zhang, B. and VerBerkmoes, N. C. and Langston, M. A. and Uberbacher, E. and Hettich, R. L. and Samatova, N. F.},
+   title = {Detecting differential and correlated protein expression in label-free shotgun proteomics},
+   journal = {J. Proteome Res.},
+   volume = {5},
+   number = {11},
+   pages = {2909-2918},
+   keywords = {Bacterial Proteins/genetics
+Chromatography, Liquid
+*Gene Expression
+Mass Spectrometry
+Proteins/chemistry/*genetics/isolation & purification
+Proteomics/*methods
+Reproducibility of Results
+Rhodopseudomonas/genetics},
+   ISSN = {1535-3893 (Print)
+1535-3893 (Linking)},
+   DOI = {10.1021/pr0600273},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/17081042},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Zhang, Y. and Wen, Z. and Washburn, M. P. and Florens, L.},
+   title = {Refinements to label free proteome quantitation: how to deal with peptides shared by multiple proteins},
+   journal = {Anal. Chem.},
+   volume = {82},
+   number = {6},
+   pages = {2272-2281},
+   keywords = {Albumins/analysis
+Animals
+Cattle
+Fungal Proteins/analysis
+Humans
+Mice
+Peptides/*analysis
+Proteins/*analysis
+Proteome/*analysis
+Proteomics/*methods
+Rabbits
+Rats
+Reproducibility of Results
+Saccharomyces cerevisiae/chemistry
+Swine},
+   ISSN = {1520-6882 (Electronic)
+0003-2700 (Linking)},
+   DOI = {10.1021/ac9023999},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/20166708
+http://pubs.acs.org/doi/abs/10.1021/ac9023999},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Zybailov, B. and Mosley, A. L. and Sardiu, M. E. and Coleman, M. K. and Florens, L. and Washburn, M. P.},
+   title = {Statistical analysis of membrane proteome expression changes in Saccharomyces cerevisiae},
+   journal = {J. Proteome Res.},
+   volume = {5},
+   number = {9},
+   pages = {2339-2347},
+   keywords = {Data Interpretation, Statistical
+*Gene Expression Regulation, Fungal
+Membrane Proteins/*metabolism
+Nitrogen Radioisotopes
+Proteomics/*methods
+Saccharomyces cerevisiae/genetics/*metabolism},
+   ISSN = {1535-3893 (Print)
+1535-3893 (Linking)},
+   DOI = {10.1021/pr060161n},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/16944946},
+   year = {2006},
+   type = {Journal Article}
+}
+
