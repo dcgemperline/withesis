@@ -155,7 +155,8 @@
 %%%%DCG EDITS
 
 \usepackage{blindtext}
-\usepackage{ccaption}
+\usepackage[CaptionAfterwards]{fltpage}
+\usepackage{lipsum}
 
 
 %%% NB: the ``deposit'' chapter- and page- styles should conform to UW
@@ -177,6 +178,8 @@
 
 \usepackage{titlesec}
 \usepackage{rotating}
+\usepackage{numprint}
+\usepackage{excel2latex}
 
 %Edited by DCG
 % hide the section numbers 
