@@ -155,8 +155,7 @@
 %%%%DCG EDITS
 
 \usepackage{blindtext}
-\usepackage[CaptionAfterwards]{fltpage}
-\usepackage{lipsum}
+\usepackage{ccaption}
 
 
 %%% NB: the ``deposit'' chapter- and page- styles should conform to UW
