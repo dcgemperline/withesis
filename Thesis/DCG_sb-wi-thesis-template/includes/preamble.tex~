@@ -157,6 +157,7 @@
 \usepackage{blindtext}
 \usepackage[CaptionAfterwards]{fltpage}
 \usepackage{lipsum}
+\usepackage{newclude}
 
 
 %%% NB: the ``deposit'' chapter- and page- styles should conform to UW
@@ -179,7 +180,6 @@
 \usepackage{titlesec}
 \usepackage{rotating}
 \usepackage{numprint}
-\usepackage{excel2latex}
 
 %Edited by DCG
 % hide the section numbers 

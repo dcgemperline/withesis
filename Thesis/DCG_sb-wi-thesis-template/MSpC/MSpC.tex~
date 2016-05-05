@@ -66,57 +66,18 @@ This option provided only a minor improvement in overall linearity for the avera
 Consequently, caution should be exercised when selecting this option even though it might provide a slight improvement in stringency (see supplemental discussion in Supporting Information).
 To demonstrate the utility and accuracy of MSpC as applied to our work, we analyzed 20S proteasomes isolated from Arabidopsis thaliana.
 This particle contains multiple subunits assembled in stoichiometric amounts, with many subunits encoded by two paralogous genes of sufficient amino acid identity (typically >90\% \citep{yang04}) such that discrimination between paralogs can be challenging using LFQ approaches \citep{book10}.
-To simulate changes in 20S proteasome abundance, we added varying amounts of trypsinized proteasomes (0.05 µg to 3 µg) to a fixed amount of trypsinized E. coli lysate (0.5 µg) to generate proteasome/lysate ratios of \textasciitilde0.091, 0.167, 0.333, 0.500, 0.667, 0.750 0.800, 0.857.
+To simulate changes in 20S proteasome abundance, we added varying amounts of trypsinized proteasomes (0.05 $\mu$g to 3 $\mu$g) to a fixed amount of trypsinized E. coli lysate (0.5 $\mu$g) to generate proteasome/lysate ratios of \textasciitilde0.091, 0.167, 0.333, 0.500, 0.667, 0.750 0.800, 0.857.
 The digests were then subjected to MS/MS and the dNSAF value for each subunit along with the uNSAF value for individual isoforms were calculated by the Morpheus/MSpC pipeline (see Supplemental Methods).
 \begin{FPfigure}[Figure \ref{fig:proteasomespike} \textit{caption follows on next page}]
 	\centering
 	\includegraphics[width=\columnwidth]{MSpC/figure2_rescale.png}
 	\mycaption{Confirmation of MSpC accuracy by analysis of MS/MS datasets generated with affinity purified Arabidopsis 20S proteasomes spiked into a total cell lysate from E. coli. Following MS/MS analysis, the dNSAF and uNSAF values for each subunit/isoform were determined by Morpheus and MSpC}
-	{\textbf{(A)} A silver-stained SDS-PAGE gel of 20S proteasome samples affinity purified from 10-d-old Arabidopsis seedlings. The crude seedling extract(CE), sample buffer (SB), and affinity-purified 20S proteasome samples (Prot) are shown. \textbf{(B)} Quantification of trypsinized 20S proteasomes when mixed at varying ratios with trypsinized total protein lysates from E. coli. The spiked samples were subjected to MS/MS followed by data analysis with the Morpheus and MSpC. dNSAF values for each proteasome subunit were averaged across three technical replicates, then summed to obtain an estimate of abundance for the 20S proteasome, and plotted against their known ratios. The total protein load is listed at each point in ug. \textbf{(C} and \textbf{D)} dNSAF and uNSAF values determined from the data in panel B for individual subunits \textbf{(C)} and their isoforms {(D)} for several subunits of the 20S proteasome. \textbf{(E)} Quantification accuracy of the Morpheus/MSpC pipeline for determining the amount of each $\alpha$ and $\beta$ subunit of the 20S proteasome. SIngle subunit isoforms are in black, wheras subunits having two isoforms are shown in black and grey to reflect the contributions of isoforms 1 and 2 respectively. Each bar represents the average of eight technical replicates ($\pm$ SE). The dashed line represents the expected value of one assuming an equal stoichiometry of each subunit within the particle.}
+	{\textbf{(A)} A silver-stained SDS-PAGE gel of 20S proteasome samples affinity purified from 10-d-old Arabidopsis seedlings. The crude seedling extract(CE), sample buffer (SB), and affinity-purified 20S proteasome samples (Prot) are shown. \textbf{(B)} Quantification of trypsinized 20S proteasomes when mixed at varying ratios with trypsinized total protein lysates from E. coli. The spiked samples were subjected to MS/MS followed by data analysis with the Morpheus and MSpC. dNSAF values for each proteasome subunit were averaged across three technical replicates, then summed to obtain an estimate of abundance for the 20S proteasome, and plotted against their known ratios. The total protein load is listed at each point in ug. \textbf{(C} and \textbf{D)} dNSAF and uNSAF values determined from the data in panel B for individual subunits \textbf{(C)} and their isoforms \textbf{(D)} for several subunits of the 20S proteasome. \textbf{(E)} Quantification accuracy of the Morpheus/MSpC pipeline for determining the amount of each $\alpha$ and $\beta$ subunit of the 20S proteasome. SIngle subunit isoforms are in black, wheras subunits having two isoforms are shown in black and grey to reflect the contributions of isoforms 1 and 2 respectively. Each bar represents the average of eight technical replicates ($\pm$ SE). The dashed line represents the expected value of one assuming an equal stoichiometry of each subunit within the particle.}
 	\label{fig:proteasomespike}
 \end{FPfigure}
 The data from this experiment are deposited in PRIDE with ID PXD003002.
 As shown in Figure \ref{fig:proteasomespike}, MSpC provided an excellent determination for the overall abundance of 20S proteasomes within a complex mixture, along with a good reflection of the abundance of individual subunits and their isoforms.
-\begin{sidewaystable}
-	\centering
-	\mycaption{Table of adj\_NSAF values for each 20S proteasome subunit (equivalent to dNSAF) generated by analzying the proteasome spike in experiments with the TPP and ABACUS pipeline}{The top half of the table lists $\alpha$1-7 (PAA-PAG) where 1 or 2 represent different isoforms) subunits, while the bottom half of the table lists $\beta$1-7 subunits (PBA-PBG where 1 or 2 represent different isoforms)}
-\npdecimalsign{.}
-\nprounddigits{2}
-\scalebox{0.5}{
-\begin{tabular}{ | l | n{2}{5} | n{2}{5} | n{2}{5} | n{2}{5} | n{2}{5} | n{2}{5} | n{2}{5} | n{2}{5} | l | l | }
-\hline
-	Ratio & 0.0909090909090909 & 0.166666666666667 & 0.333333333333333 & 0.5 & 0.666666666666667 & 0.75 & 0.8 & 0.857142857142857 &  & Pearsons \\ \hline
-	PAA1 & 125.1605 & 166.814933333333 & 245.605733333333 & 355.603 & 491.756533333333 & 494.180766666667 & 504.7474 & 554.9655 &  & 0.987788288683398 \\ \hline
-	PAA2 & 57.5179 & 70.5156 & 114.6043 & 126.3541 & 132.057633333333 & 162.254333333333 & 358.126766666667 & 154.6169 &  & 0.493057505529942 \\ \hline
-	PAB1 & 96.1281333333333 & 134.976666666667 & 207.903366666667 & 328.155766666667 & 362.214766666667 & 416.455533333333 & 303.600333333333 & 397.3895 &  & 0.865439067273664 \\ \hline
-	PAB2 & 29.6656 & 79.4214666666667 & 153.342433333333 & 282.9059 & 365.2214 & 299.465433333333 & 310.191233333333 & 299.9338 &  & 0.848913155268619 \\ \hline
-	PAC1 & 95.2721 & 112.4513 & 214.2375 & 376.6589 & 389.0532 & 361.3876 & 512.729966666667 & 488.622566666667 &  & 0.924694988613313 \\ \hline
-	PAD1 & 62.5760333333333 & 76.1550666666667 & 106.029166666667 & 196.029166666667 & 179.368066666667 & 182.99 & 164.042 & 188.712266666667 &  & 0.79353639882071 \\ \hline
-	PAD2 & 39.8761666666667 & 68.3250666666667 & 145.336133333333 & 178.431866666667 & 190.844066666667 & 246.201933333333 & 243.280033333333 & 240.011133333333 &  & 0.953695573961697 \\ \hline
-	PAE1 & 50.4061 & 97.5292333333334 & 193.1804 & 368.874666666667 & 464.7942 & 397.2735 & 468.640233333333 & 534.1594 &  & 0.950854292773049 \\ \hline
-	PAE2 & 71.3761666666667 & 80.07 & 184.8455 & 255.9835 & 299.405033333333 & 290.158533333333 & 304.771366666667 & 348.315966666667 &  & 0.954954859737766 \\ \hline
-	PAF1 & 132.672866666667 & 179.603633333333 & 207.677133333333 & 253.509366666667 & 253.0449 & 327.109433333333 & 334.728433333333 & 460.761633333333 &  & 0.834748054996771 \\ \hline
-	PAF2 & 0 & 0 & 59.6242 & 70.9316666666667 & 111.829833333333 & 80.2913 & 63.0849 & 65.8575666666667 &  & 0.605990529937574 \\ \hline
-	PAG1 & 108.09 & 142.817966666667 & 271.1772 & 389.941233333333 & 495.944133333333 & 530.9014 & 632.718566666667 & 540.855366666667 &  & 0.96630247289725 \\ \hline
-	 &  &  &  &  &  &  &  &  &  &  \\ \hline
-	Ratio & 0.0909090909090909 & 0.166666666666667 & 0.333333333333333 & 0.5 & 0.666666666666667 & 0.75 & 0.8 & 0.857142857142857 &  & Pearsons \\ \hline
-	PBA1 & 85.9936333333333 & 113.008066666667 & 208.3785 & 233.442833333333 & 273.504066666667 & 327.2321 & 417.115533333333 & 560.623866666667 &  & 0.850921399221317 \\ \hline
-	PBB1 & 47.7680333333333 & 80.6607 & 195.345666666667 & 324.533766666667 & 303.262266666667 & 220.3566 & 200.505533333333 & 216.7744 &  & 0.440413945248165 \\ \hline
-	PBB2 & 17.1106 & 4.53546666666667 & 0 & 0 & 21.0460666666667 & 102.5114 & 144.301233333333 & 187.855433333333 &  & 0.618228756945012 \\ \hline
-	PBC1 & 27.1930666666667 & 40.6497 & 165.4624 & 345.143866666667 & 364.189333333333 & 386.5929 & 338.4678 & 373.160833333333 &  & 0.885192639364864 \\ \hline
-	PBC2 & 10.6414333333333 & 40.6497 & 0 & 55.5816666666667 & 145.43 & 158.895433333333 & 159.744933333333 & 228.051566666667 &  & 0.844980229680132 \\ \hline
-	PBD1 & 50.1409333333333 & 94.4576666666667 & 168.575133333333 & 167.5016 & 244.254266666667 & 248.174666666667 & 252.649766666667 & 319.613733333333 &  & 0.945107382530759 \\ \hline
-	PBD2 & 81.4452333333333 & 149.2844 & 256.881833333333 & 319.8908 & 390.595466666667 & 407.019033333333 & 380.297266666667 & 490.1709 &  & 0.950089780554562 \\ \hline
-	PBE1 & 81.0115333333333 & 107.7629 & 196.210233333333 & 302.899566666667 & 365.0328 & 404.247133333333 & 378.6655 & 441.0343 &  & 0.981079214776472 \\ \hline
-	PBE2 & 0 & 1.51736666666667 & 5.592 & 8.04916666666667 & 40.0649 & 56.5627666666667 & 59.3858 & 58.5621 &  & 0.886783231269529 \\ \hline
-	PBF1 & 71.5308 & 112.260333333333 & 190.453766666667 & 226.886666666667 & 259.900866666667 & 366.597233333333 & 431.420033333333 & 420.228533333333 &  & 0.94257878462495 \\ \hline
-	PBG1 & 104.9337 & 174.549766666667 & 232.341733333333 & 392.370766666667 & 425.101 & 397.848 & 396.4215 & 463.1298 &  & 0.905749458006341 \\ \hline
-	 &  &  &  &  &  &  &  &  &  &  \\ \hline
-	 &  &  &  &  &  &  &  &  & Average & 0.844830435248515 \\ \hline
-\end{tabular}}
-\npnoround
-\label{table:abacus}
-\end{sidewaystable}
+
 When the dNSAF values for all subunits for the Arabidopsis 20S proteasome including their isoforms (representing 14 distinct subunits, 10 of which exist as isoform pairs) were summed, a very close approximation of the dNSAF/actual abundance was obtained (slope=0.875) with a very strong linear correlation (R$\textsuperscript{2}$ = 0.99) over a \textasciitilde10-fold range in protein abundance.  
 When each 20S proteasome subunit was analyzed individually, a strong linear response was also obtained (R$\textsuperscript{2}$ > 0.90) for a majority of subunits (Figure \ref{fig:proteasomespike} C and Supplemental Table 1).
 
@@ -134,18 +95,70 @@ Notably , the protein isoform ratios measured here agree well with the expressio
 We consistently estimated slightly more $\alpha$ ring subunits (PAA-PAG) versus $\beta$ ring subunits (PBA-PBG) in the final MSpC calculations (Figure 2E).
 This deviation could represent enhanced detection of $\alpha$ ring versus $\beta$ ring subunits, or more likely that purification via the tagged $\alpha$ ring subunit PAG1 also isolated assembly intermediates comprised of only $\alpha$ ring subunits.
 
-We compared the Morpheus and MSpC pipeline to the next most comparable open source, spectral-count-based LFQ pipeline, The Trans Proteomic Pipeline (TPP) \citep{deutsch10} and ABACUS \citep{fermin11} using our datasets generated with the 20S proteasome/E. coli lysate mixture (Supplemental Table 1 and 2).
+We compared the Morpheus and MSpC pipeline to the next most comparable open source, spectral-count-based LFQ pipeline, The Trans Proteomic Pipeline (TPP) \citep{deutsch10} and ABACUS \citep{fermin11} using our datasets generated with the 20S proteasome/E. coli lysate mixture (see Tables \ref{table:MSpC} and \ref{table:abacus}).
 Morpheus/MSpC slightly outperformed TPP/ABACUS by having a greater overall accuracy (average linearity of 0.88 compared to 0.84), and by having more subunits showing an R$\textsuperscript{2}$ linear correlation greater than 0.9 (14/23 subunits for MSpC versus and 11/23 for ABACUS).
+\begin{table}[h]
+	\centering
+	\mycaption{Table of dNSAF values for each 20S proteasome subunit generated by analyzing the proteasome spike in experiments with the Morpheus and MSpC pipeline}{The top half of the table lists $\alpha$1-7 (PAA-PAG) where 1 or 2 represent different isoforms) subunits, while the bottom half of the table lists $\beta$1-7 subunits (PBA-PBG where 1 or 2 represent different isoforms)}
+\npdecimalsign{.}
+\nprounddigits{2}
+\begingroup
+\let\clearpage\relax
+\scalebox{0.7}{
+\input{MSpC/MSpCtable.tex}
+}
+\endgroup
+\npnoround
+\label{table:MSpC}
+\end{table}
+\begin{table}[h]
+	\centering
+	\mycaption{Table of adj\_NSAF values for each 20S proteasome subunit (equivalent to dNSAF) generated by analzying the proteasome spike in experiments with the TPP and ABACUS pipeline}{The top half of the table lists $\alpha$1-7 (PAA-PAG) where 1 or 2 represent different isoforms) subunits, while the bottom half of the table lists $\beta$1-7 subunits (PBA-PBG where 1 or 2 represent different isoforms)}
+\npdecimalsign{.}
+\nprounddigits{2}
+\begingroup
+\let\clearpage\relax
+\scalebox{0.7}{
+\input{MSpC/abacustable.tex}
+}
+\endgroup
+\npnoround
+\label{table:abacus}
+\end{table}
+
 In addition to this modest improvement, we note that the Morpheus/MSpC pipeline required significantly less intermediary steps, thus accelerating the data analysis.
 Some of the additional steps in TPP/ABACUS could be automated from the command-line, but it would likely be a challenge for the average user.
 Importantly, we found that the Morpheus/MSpC pipeline was faster.
-Timing tests using the proteasome/E. coli spike data generated here showed that the Morpheus/MSpC pipeline was 1.9-fold faster than the TPP/ABACUS pipeline (Figure 3).
+Timing tests using the proteasome/E. coli spike data generated here showed that the Morpheus/MSpC pipeline was 1.9-fold faster than the TPP/ABACUS pipeline (Figure \ref{fig:MSpCspeed}).
 Such an improvement was expected given that Morpheus completes its searches on average 1.3 to 4.6 times faster than most other search engines available \citep{wenger13}. 
 Given its simplicity of use, speed, and open source nature, MSpC combined with Morpheus is clearly advantageous over other PSM-based LFQ approaches currently available.  Moreover, by being open source, MSpC should allow others to extend its utility and to serve as a platform for integrating additional open source LFQ approaches into the Morpheus pipeline. 
 
-\section {Methods}
+\begin{figure}[p]
+	\centering
+	\includegraphics[width=\columnwidth]{MSpC/figure3.png}
+	\mycaption{MSpC combined with Morpheus works faster than TPP combined with ABACUS.  Speed comparisons were performed for 12, 24, 48, and 96 raw MS/MS files generated with the 20S proteasome/E coli lysate samples analyzed in \ref{fig:proteasomespike}}{On average, Morpheus/MSpC finished the calculations 1.9 times faster than TPP/ABACUS over a \textasciitilde10-fold range of dataset size.}
+	\label{fig:MSpCspeed}
+\end{figure}
 
-\section {Tutorial}
+\section {Methods}
+\subsection{Sample Preparation}
+
+All chemicals were purchased from Sigma-Aldrich unless otherwise stated.  20S proteasomes were obtained as described previously \citep{book10} from Arabidopsis thaliana Col-0 ecotype seedlings in which the 20S proteasome subunit PAG1 ($\alpha$7) was genetically replaced with a FLAG-tagged variant, with the minor modification of switching to a more stable HEPES buffer during purification.  The FLAG peptide used for elution was removed by filtering through an Amicon Ultra 4 10K filter with the elution buffer also exchanged into 8 M urea.  Total protein was quantified by the bicinchoninic acid protein assay (Thermo Scientific) using bovine serum albumin as the standard.  Approximately 70 $\mu$g of proteasomes were digested overnight at 37$^\circ$C using a 1:30 trypsin/sample ratio.  Peptides were acidified to a final concentration of 1\% TFA, desalted on a Waters C18 Sep-Pak containing 50 mg sorbent material, and lyophilized.  Total Escherichia coli lysates were obtained from Bio-Rad (Cat. 163-2110) with 200 $\mu$g digested as above.  Both proteasome and E. coli peptides were dissolved in 5\% acetonitrile, 95\% water, and 0.1 \% formic acid.  Each MS analysis, performed in triplicae, used 5 $\mu$L volumes prepared with 3, 2, 1.5, 1, 0.5, 0.25, 0.1, or 0.05 $\mu$g of digested proteasomes mixed with 0.5 $\mu$g of digested E. coli proteins.  This mixtures reflected proteasome/E. coli ratios of \textasciitilde0.091, 0.167, 0.333, 0.500, 0.667, 0.750 0.800, and 0.857, respectively.
+
+\subsection{Liquid Chromatography and High-Resolution Mass Spectrometry}
+
+Samples were analyzed by ultra-high performance liquid chromatography (UPLC) (nanoAcquity, Waters Corporation) connected online to an electrospray ionization LTQ Velos Orbitrap mass spectrometer (Thermo Scientific).  Separation employed a 100 x 365 $\mu$m fused silica capillary micro-column packed with 20 cm of 1.7 $\mu$m-diameter, 130-$\angstrom$ pore size, C18 beads (Waters BEH), with an emitter tip pulled to approximately 1 $\mu$m using a laser puller (Sutter Instruments).  Peptides were loaded at a flow-rate of 400 nL/min for 30 min and then eluted over 120 min at a flow-rate of 300 nL/min with a 2\% to 30\% acetonitrile gradient in 0.1\% formic acid.  Full-mass scans were performed in the FT Orbitrap with a mass range of 300-1500 m/z at a resolution of 60,000, followed by ten MS/MS high energy C-trap dissociation scans of the ten highest intensity parent ions at 42\% normalized collision energy and 7,500 resolution, with a mass range starting at 100 m/z.  Dynamic exclusion was enabled with a repeat count of two over the duration of 30 sec and an exclusion window of 120 sec.  
+
+\subsection{Data Processing}
+
+Protein identifications were determined using the Morpheus search engine \citep{wenger13}.  Raw data was searched with the Thermo module of Morpheus revision 151 downloaded and compiled from source code available at \url{http://sourceforge.net/projects/morpheus-ms/} using Microsoft Visual Studio 2013 professional edition.  The following parameters were used to search all databases: unknown precursor charge states - +2, +3, +4; maximum number of MS/MS peaks = 400; assign charge states - enabled; de-isotope - disabled; generate target decoy database on the fly; protease trypsin (no proline rule); maximum missed cleavages = 2; initiator methionine behavior - variable; fixed modification of carbamidomethylation of cysteine; variable modification of oxidation of methionine; maximum variable modification isoforms per peptide = 1024; precursor mass tolerance = $\pm$ 2.1 Da monoisotopic (recommended parameters to account for neutral loss); precursor monoisotopic peak correction - disabled; product mass tolerance = $\pm$ 0.025 Da monoisotopic; consider modified forms as unique peptides - false; maximum threads = 8; minimize memory usage - false.   
+MSpC quantification of Universal Proteome Standard 2 (UPS2) protein sequences exploited the MS/MS analysis of individual USP2 proteins (Sigma-Aldrich) mixed at various concentrations with egg or embryo extracts from Xenopus laevis available in the PRoteomics IDEntifications (PRIDE) repository \citep{vizcaino13} using identifier - PXD000902 and the available proteomics database - pita\_v1.71.protein.name.fa.  For our analysis, both the raw MS/MS data and resulting FASTA files for the USP2 and egg and embryo proteomes were obtained from PRIDE.  The database used for searching the MS/MS data of Arabidopsis proteasomes spiked into total E. coli peptides was generated by combining Uniprot K12 E. coli reference proteome UP000000625 with a common contaminant database, and then mixing the merged dataset with FASTA sequences for all proteoforms of all known proteasome subunits and associated proteins \citep{book10} obtained from the TAIR10\_pep\_20101214 FASTA database available within The Arabidopsis Information Resource (TAIR) version 10.  All FASTA files are available for download in the Supporting Information.  The datasets were analyzed by MSpC with a 1\% PSM false discovery rate (FDR) and a 1\% protein group FDR to determine NSAF, dNSAF, and uNSAF values for each protein group. Two separate analyses were performed in which one unique, or alternatively two unique peptides were required to quantify a protein group.  NSAF values were calculated according to formulas 1a, 2a, and 3a from Figure 1 of Zhang et al. \citep{zhang10}.
+	For the individual subunit analysis of the 20S proteasome the isoform incorporation rates were treated as follows. Given that each proteasome subunit should be incorporated at equal stoichiometry within the 20S particle, we then tested whether the Morpheus/MSpC pipeline could calculate the relative abundance of each subunit and the distribution of isoforms.  Here, we divided the dNSAF values for each subunit/isoform by the total number of dNSAF values for the entire complex across all eight total proteasome/E. coli lysate ratios tested.  This averaged value provided a concentration-independent ratio for the incorporation of each subunit/isoform.  We then normalized these values based on a 1/14 stoichiometry of each subunit within the complex to calculate the estimated occupancy versus the expected occupancy of each subunit.  
+
+\subsection{Speed and Accuracy Comparisons of Morpheus/MSpC to the TPP/ABACUS Pipeline}
+
+The speed and accuracy of MSpC combined with Morpheus was compared to the next most comparable open source software suite for calculating NSAF values; i.e., TPP \citep{deutsch10} combined with ABACUS \citep{fermin11}, using the proteasome spike-in experiment files as input.  The .raw files were converted to .mzmL files by TPP Build 201411201551-6764 and then searched using the multi-threaded X!Tandem MS/MS search engine \citep{craig04} with the search parameters adjusted as close as possible to that used for the Morpheus searches.  A decoy database was generated using the TPP tool DecoyFASTA for use with X!Tandem.  Relevant  X!Tandem parameters are listed here: parent monoisotopic mass error = $\pm$ 2.1 Da, fragment mass error = $\pm$ 0.025 Da, fixed modifications of carbamidomethylation (57.021464) on cysteine, and variable modification of oxidation (15.994915) on methionine, fully tryptic cleavages, missed cleavage sites = 2 maximum, no refinement and 8 threads.  The configuration file used and the test datasets can be found in the Supporting Information. The data were analyzed in the TPP using Peptide Prophet \citep{keller02}.  Relevant settings are listed: minimum probability = 0.05; minimum peptide length = 7; accurate mass, and nonparametric decoy database to pin down false discovery rate; ignore +1 charged spectra; and run Protein Prophet \citep{nesvizhskii03} after Peptide Prophet.  
+Once completed, all pepxml data from Peptide Prophet contained in a single folder was combined using the command line version of Protein Prophet from the TPP binaries with the following command: ProteinProphet.exe *.pep.xml interact-COMBINED.prot.xml.  This post-analysis aggregation was required for running the spectral counting program ABACUS.  Here, we note that there are no graphic user interfaces to perform this post analysis aggregation, which makes this portion of the data analysis more difficult for those unfamiliar with setting up and running programs from the command line.  The combined data was analyzed by ABACUS with the following parameters: best peptide probability = 0.99; minimum peptide probability = 0.99; experimental peptide probability = 0; and combined file probability = 0.99 to most accurately match a 1\% FDR stringency settings in MSpC.  dNSAF values were compared in Microsoft Excel using the CORREL function and squaring the result.  Additional timing tests were performed with a subset of the calibration curve data (ratios 0.091, 0.167, 0.333, and 0.500 in triplicate corresponding to 12 .raw files) by increasing file input to 24 (2x), 48 (4x), and 96 (8x) .raw files to determine the time dependence on input size between both pipelines tested (Morpheus/MSpC versus TPP/ABACUS).  The timing tests and all data analyses were performed on a computer running Windows 7 Ultimate, with 16 GB of random access memory, and an Intel Core i7-2700k with hyper-threading turned on for eight logical cores.
 
 \section {Acknowledgements}
 D.C.G. was supported by a grant from the U.S. Department of Energy Office of Science; Office of Basic Energy Sciences; Chemical Sciences, Geosciences, and Biosciences Division (DE-FG02-88ER13968) and a graduate training fellowship from the NIH (5 T32 GM 7133-37).  M.S. and L.M.S were supported by a grant from the National Institute of Health/National Institute of General Medical Sciences (1P50HG004942).  The authors thank Erin Gemperline, Richard S. Marshall, and Josh Coon for critical reading of the manuscript, and additionally thank Derek Bailey for a critical code review.
