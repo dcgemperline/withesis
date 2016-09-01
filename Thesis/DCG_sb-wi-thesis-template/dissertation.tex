@@ -18,7 +18,9 @@
 
 %%% You'll want ``oneside'' for the deposit version, but probably not for any versions that don't need to meet the UW requirements
 \documentclass[12pt,oneside,letterpaper]{memoir}
-
+%Use LuaLateX to get the fonts properly taken care of for the author references
+\usepackage[utf8]{inputenc}
+\usepackage[greek,english]{babel}
 \input{includes/preamble}
 \input{includes/defs}
 \input{includes/thesisdefs} 
