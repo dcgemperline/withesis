@@ -1,0 +1,1283 @@
+% Encoding: UTF-8
+
+@Article{altschul97,
+  author =   {Altschul, S. F. and Madden, T. L. and Schaffer, A. A. and Zhang, J. and Zhang, Z. and Miller, W. and Lipman, D. J.},
+  title =    {Gapped BLAST and PSI-BLAST: a new generation of protein database search programs},
+  journal =  {Nucleic Acids Res.},
+  year =     {1997},
+  volume =   {25},
+  number =   {17},
+  pages =    {3389-402},
+  issn =     {0305-1048 (Print) 0305-1048 (Linking)},
+  keywords = {Algorithms Amino Acid Sequence Animals DNA/*chemistry *Databases, Factual Humans Molecular Sequence Data Proteins/*chemistry *Sequence Alignment *Software},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/9254694}
+}
+
+@Article{aravind99,
+  author =   {Aravind, L. and Koonin, E. V.},
+  title =    {Gleaning non-trivial structural, functional and evolutionary information about proteins by iterative database searches},
+  journal =  {J. Mol. Biol.},
+  year =     {1999},
+  volume =   {287},
+  number =   {5},
+  pages =    {1023-40},
+  doi =      {10.1006/jmbi.1999.2653},
+  issn =     {0022-2836 (Print) 0022-2836 (Linking)},
+  keywords = {Actins/chemistry Adenosine Triphosphate/metabolism Amino Acid Sequence Binding Sites DNA Ligases/chemistry/metabolism DNA-Binding Proteins/chemistry/metabolism Databases, Factual *Evolution, Molecular HSP70 Heat-Shock Proteins/chemistry Immunoglobulins/chemistry/physiology *Information Storage and Retrieval Models, Molecular Molecular Sequence Data NAD/metabolism Protein Folding Proteins/*chemistry/physiology Sequence Homology, Amino Acid Software Transcription Factors/chemistry/metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/10222208}
+}
+
+@Article{beck12,
+  author =   {Beck, F. and Unverdorben, P. and Bohn, S. and Schweitzer, A. and Pfeifer, G. and Sakata, E. and Nickell, S. and Plitzko, J. M. and Villa, E. and Baumeister, W. and Förster, F.},
+  title =    {Near-atomic resolution structural model of the yeast 26S proteasome},
+  journal =  {Proc. Natl. Acad. Sci. U.S.A.},
+  year =     {2012},
+  volume =   {109},
+  number =   {37},
+  pages =    {14870-14875},
+  doi =      {DOI 10.1073/pnas.1213333109},
+  issn =     {0027-8424},
+  keywords = {protein degradation electron microscopy deubiquitylating enzyme regulatory particle electron-microscopy molecular architecture polyubiquitin chains crystal-structure 20s proteasome degradation domain rpn11 core},
+  type =     {Journal Article},
+  url =      {<Go to ISI>://WOS:000309208000039}
+}
+
+@Article{belote98,
+  author =   {Belote, J. M. and Miller, M. and Smyth, K. A.},
+  title =    {Evolutionary conservation of a testes-specific proteasome subunit gene in Drosophila},
+  journal =  {Gene},
+  year =     {1998},
+  volume =   {215},
+  number =   {1},
+  pages =    {93-100},
+  issn =     {0378-1119 (Print) 0378-1119 (Linking)},
+  keywords = {Amino Acid Sequence Animals Base Sequence Chromosome Mapping Cloning, Molecular Conserved Sequence/genetics Cysteine Endopeptidases/*genetics DNA/chemistry/genetics Drosophila/chemistry/enzymology/*genetics *Drosophila Proteins Evolution, Molecular Gene Expression/genetics Gene Expression Regulation, Enzymologic Genes, Insect/*genetics Male Molecular Sequence Data Multienzyme Complexes/*genetics Phylogeny Proteasome Endopeptidase Complex Proteins/*genetics Sequence Analysis, DNA Sequence Homology, Amino Acid Sex Factors Testis/*enzymology},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/9666090}
+}
+
+@Article{berardini15,
+  author =  {Berardini, Tanya Z. and Reiser, Leonore and Li, Donghui and Mezheritsky, Yarik and Muller, Robert and Strait, Emily and Huala, Eva},
+  title =   {The arabidopsis information resource: Making and mining the “gold standard” annotated reference plant genome},
+  journal = {Genesis},
+  year =    {2015},
+  volume =  {53},
+  number =  {8},
+  pages =   {474-485},
+  doi =     {10.1002/dvg.22877},
+  issn =    {1526954X},
+  type =    {Journal Article}
+}
+
+@Article{besche09,
+  author =   {Besche, H. C. and Haas, W. and Gygi, S. P. and Goldberg, A. L.},
+  title =    {Isolation of mammalian 26S proteasomes and p97/VCP complexes using the ubiquitin-like domain from HHR23B reveals novel proteasome-associated proteins},
+  journal =  {Biochemistry (Mosc.)},
+  year =     {2009},
+  volume =   {48},
+  number =   {11},
+  pages =    {2538-49},
+  doi =      {10.1021/bi802198q},
+  issn =     {1520-4995 (Electronic) 0006-2960 (Linking)},
+  keywords = {Adenosine Triphosphatases/genetics/*metabolism Animals Cell Cycle Proteins/genetics/*metabolism DNA Repair Enzymes/chemistry/genetics/*metabolism DNA-Binding Proteins/chemistry/genetics/*metabolism Humans Muscle, Skeletal/metabolism Proteasome Endopeptidase Complex/genetics/*metabolism Protein Binding Protein Structure, Tertiary Rats},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/19182904}
+}
+
+@Article{book09,
+  author =   {Book, A. J. and Smalle, J. and Lee, K. H. and Yang, P. and Walker, J. M. and Casper, S. and Holmes, J. H. and Russo, L. A. and Buzzinotti, Z. W. and Jenik, P. D. and Vierstra, R. D.},
+  title =    {The RPN5 subunit of the 26S proteasome is essential for gametogenesis, sporophyte development, and complex assembly in Arabidopsis},
+  journal =  {Plant Cell},
+  year =     {2009},
+  volume =   {21},
+  number =   {2},
+  pages =    {460-78},
+  doi =      {10.1105/tpc.108.064444},
+  issn =     {1040-4651 (Print) 1040-4651 (Linking)},
+  keywords = {Amino Acid Sequence Arabidopsis/anatomy & histology/genetics/*growth & development Arabidopsis Proteins/chemistry/genetics/*physiology Carrier Proteins/chemistry/*genetics/physiology Embryonic Development/genetics Molecular Sequence Data Phenotype Pollen/genetics/growth & development Proteasome Endopeptidase Complex/*physiology Protein Subunits/chemistry/genetics/*physiology Seeds/anatomy & histology/genetics/growth & development Sequence Alignment},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/19252082}
+}
+
+@Article{book10,
+  author =   {Book, A. J. and Gladman, N. P. and Lee, S. S. and Scalf, M. and Smith, L. M. and Vierstra, R. D.},
+  title =    {Affinity purification of the Arabidopsis 26S proteasome reveals a diverse array of plant proteolytic complexes},
+  journal =  {J. Biol. Chem.},
+  year =     {2010},
+  volume =   {285},
+  number =   {33},
+  pages =    {25554-25569},
+  doi =      {DOI 10.1074/jbc.M110.136622},
+  issn =     {0021-9258},
+  keywords = {regulatory particle subunits mass-spectrometric analysis 20s proteasome ubiquitylated proteins cop9 signalosome yeast proteasome core particle identification proteomics binding},
+  type =     {Journal Article},
+  url =      {<Go to ISI>://WOS:000280682400050}
+}
+
+@Article{brukhin05,
+  author =   {Brukhin, V. and Gheyselinck, J. and Gagliardini, V. and Genschik, P. and Grossniklaus, U.},
+  title =    {The RPN1 subunit of the 26S proteasome in Arabidopsis is essential for embryogenesis},
+  journal =  {Plant Cell},
+  year =     {2005},
+  volume =   {17},
+  number =   {10},
+  pages =    {2723-37},
+  doi =      {10.1105/tpc.105.034975},
+  issn =     {1040-4651 (Print) 1040-4651 (Linking)},
+  keywords = {Arabidopsis/*embryology/genetics/metabolism Arabidopsis Proteins/genetics/*metabolism Cell Division/genetics Cyclin B/genetics/metabolism Cyclin B1 Embryonic Development/genetics Gametogenesis/genetics Gene Expression Regulation, Plant/genetics Genes, Lethal/genetics Mutation/genetics Phenotype Proteasome Endopeptidase Complex/genetics/*metabolism Protein Isoforms/genetics/metabolism Protein Subunits/genetics/metabolism Saccharomyces cerevisiae Proteins/genetics/metabolism Seeds/genetics/*metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/16169895}
+}
+
+@Article{chevallet06,
+  author =   {Chevallet, M. and Luche, S. and Rabilloud, T.},
+  title =    {Silver staining of proteins in polyacrylamide gels},
+  journal =  {Nat. Protoc.},
+  year =     {2006},
+  volume =   {1},
+  number =   {4},
+  pages =    {1852-8},
+  doi =      {10.1038/nprot.2006.288},
+  issn =     {1750-2799 (Electronic) 1750-2799 (Linking)},
+  keywords = {Electrophoresis, Polyacrylamide Gel Mass Spectrometry Silver Staining/*methods Temperature},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/17487168}
+}
+
+@Article{clough98,
+  author =   {Clough, S. J. and Bent, A. F.},
+  title =    {Floral dip: a simplified method for Agrobacterium-mediated transformation of Arabidopsis thaliana},
+  journal =  {Plant J.},
+  year =     {1998},
+  volume =   {16},
+  number =   {6},
+  pages =    {735-43},
+  issn =     {0960-7412 (Print) 0960-7412 (Linking)},
+  keywords = {Arabidopsis/*genetics/physiology Genetic Techniques Plant Stems Plants, Genetically Modified Rhizobium/*genetics *Transformation, Genetic},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/10069079}
+}
+
+@Article{cox08,
+  author =   {Cox, J. and Mann, M.},
+  title =    {MaxQuant enables high peptide identification rates, individualized p.p.b.-range mass accuracies and proteome-wide protein quantification},
+  journal =  {Nat. Biotechnol.},
+  year =     {2008},
+  volume =   {26},
+  number =   {12},
+  pages =    {1367-72},
+  doi =      {10.1038/nbt.1511},
+  issn =     {1546-1696 (Electronic) 1087-0156 (Linking)},
+  keywords = {Algorithms Computational Biology/*methods Databases, Protein HeLa Cells Humans Mass Spectrometry/*methods Peptides/*analysis/chemistry Proteins/*analysis/chemistry Proteome/analysis/metabolism Proteomics/*methods},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/19029910}
+}
+
+@Article{cox14,
+  author =   {Cox, J. and Hein, M. Y. and Luber, C. A. and Paron, I. and Nagaraj, N. and Mann, M.},
+  title =    {Accurate proteome-wide label-free quantification by delayed normalization and maximal peptide ratio extraction, termed MaxLFQ},
+  journal =  {Mol. Cell. Proteomics},
+  year =     {2014},
+  volume =   {13},
+  number =   {9},
+  pages =    {2513-26},
+  doi =      {10.1074/mcp.M113.031591},
+  issn =     {1535-9484 (Electronic) 1535-9476 (Linking)},
+  keywords = {*Algorithms Escherichia coli/metabolism HeLa Cells Humans Peptides/analysis Proteins/*analysis Proteome Proteomics/*methods Software},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/24942700}
+}
+
+@Article{dange11,
+  author =   {Dange, T. and Smith, D. M. and Noy, T. and Rommel, P. C. and Jurzitza, L. and Cordero, R. J. and Legendre, A. and Finley, D. and Goldberg, A. L. and Schmidt, M.},
+  title =    {The Blm10 protein promotes proteasomal substrate turnover by an active gating mechanism},
+  journal =  {J. Biol. Chem.},
+  year =     {2011},
+  volume =   {286},
+  number =   {50},
+  pages =    {42830-42839},
+  doi =      {DOI 10.1074/jbc.M111.300178},
+  issn =     {0021-9258},
+  keywords = {20 s-proteasomes saccharomyces-cerevisiae proteolytic machine regulatory particle gene disruption 26s proteasome core particle c-termini atpases complex},
+  type =     {Journal Article},
+  url =      {<Go to ISI>://WOS:000298351300004}
+}
+
+@Article{edelheit09,
+  author =   {Edelheit, O. and Hanukoglu, A. and Hanukoglu, I.},
+  title =    {Simple and efficient site-directed mutagenesis using two single-primer reactions in parallel to generate mutants for protein structure-function studies},
+  journal =  {BMC Biotechnol.},
+  year =     {2009},
+  volume =   {9},
+  pages =    {61},
+  doi =      {10.1186/1472-6750-9-61},
+  issn =     {1472-6750 (Electronic) 1472-6750 (Linking)},
+  keywords = {Base Sequence Cloning, Molecular DNA Primers Humans Molecular Sequence Data Mutagenesis, Site-Directed/*methods Polymerase Chain Reaction/*methods Structure-Activity Relationship},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/19566935}
+}
+
+@Article{elsasser02,
+  author =   {Elsasser, S. and Gali, R. R. and Schwickart, M. and Larsen, C. N. and Leggett, D. S. and Muller, B. and Feng, M. T. and Tubing, F. and Dittmar, G. A. and Finley, D.},
+  title =    {Proteasome subunit Rpn1 binds ubiquitin-like protein domains},
+  journal =  {Nat. Cell Biol.},
+  year =     {2002},
+  volume =   {4},
+  number =   {9},
+  pages =    {725-30},
+  doi =      {10.1038/ncb845},
+  issn =     {1465-7392 (Print) 1465-7392 (Linking)},
+  keywords = {Binding, Competitive *Cell Cycle Proteins Cysteine Endopeptidases/chemistry/genetics/*metabolism DNA-Binding Proteins/chemistry/genetics/metabolism Fungal Proteins/chemistry/genetics/metabolism Ligands Multienzyme Complexes/chemistry/genetics/*metabolism Proteasome Endopeptidase Complex Protein Binding Protein Structure, Tertiary Protein Subunits Proteins/chemistry/genetics/*metabolism Recombinant Fusion Proteins/chemistry/genetics/metabolism *Saccharomyces cerevisiae Proteins Ubiquitin/metabolism Ubiquitins/chemistry/genetics/metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/12198498}
+}
+
+@Article{elsasser04,
+  author =   {Elsasser, S. and Chandler-Militello, D. and Muller, B. and Hanna, J. and Finley, D.},
+  title =    {Rad23 and Rpn10 serve as alternative ubiquitin receptors for the proteasome},
+  journal =  {J. Biol. Chem.},
+  year =     {2004},
+  volume =   {279},
+  number =   {26},
+  pages =    {26817-22},
+  doi =      {10.1074/jbc.M404020200},
+  issn =     {0021-9258 (Print) 0021-9258 (Linking)},
+  keywords = {Amino Acid Motifs Binding, Competitive Canavanine/pharmacology Carrier Proteins/chemistry/genetics/*metabolism Cysteine Endopeptidases/chemistry/genetics/*metabolism DNA-Binding Proteins/genetics/*metabolism Endopeptidases/metabolism Fungal Proteins/genetics/*metabolism Multienzyme Complexes/chemistry/genetics/*metabolism Mutation Proteasome Endopeptidase Complex Protein Binding Protein Structure, Tertiary Protein Subunits Recombinant Proteins/chemistry/genetics/metabolism Saccharomyces cerevisiae/chemistry/genetics/metabolism Saccharomyces cerevisiae Proteins/metabolism Ubiquitins/chemistry/*metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/15117949}
+}
+
+@Article{farmer10,
+  author =   {Farmer, L. M. and Book, A. J. and Lee, K. H. and Lin, Y. L. and Fu, H. and Vierstra, R. D.},
+  title =    {The RAD23 family provides an essential connection between the 26S proteasome and ubiquitylated proteins in Arabidopsis},
+  journal =  {Plant Cell},
+  year =     {2010},
+  volume =   {22},
+  number =   {1},
+  pages =    {124-42},
+  doi =      {10.1105/tpc.109.072660},
+  issn =     {1532-298X (Electronic) 1040-4651 (Linking)},
+  keywords = {Amino Acid Sequence Arabidopsis/*enzymology/genetics Arabidopsis Proteins/genetics/*metabolism Cell Division DNA, Plant/genetics DNA-Binding Proteins/genetics/*metabolism Gene Expression Profiling Gene Expression Regulation, Developmental Gene Expression Regulation, Plant Molecular Sequence Data Mutation Phylogeny Proteasome Endopeptidase Complex/genetics/*metabolism Protein Isoforms/genetics/metabolism Proteome/metabolism Sequence Alignment Ubiquitin/genetics/*metabolism Ubiquitination},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/20086187}
+}
+
+@Article{fatimababy10,
+  author =   {Fatimababy, A. S. and Lin, Y. L. and Usharani, R. and Radjacommare, R. and Wang, H. T. and Tsai, H. L. and Lee, Y. and Fu, H.},
+  title =    {Cross-species divergence of the major recognition pathways of ubiquitylated substrates for ubiquitin/26S proteasome-mediated proteolysis},
+  journal =  {FEBS J.},
+  year =     {2010},
+  volume =   {277},
+  number =   {3},
+  pages =    {796-816},
+  doi =      {DOI 10.1111/j.1742-4658.2009.07531.x},
+  issn =     {1742-464X},
+  keywords = {rpn10 rpn13 ubiquitin receptor ubiquitin recognition ubl-uba factors multiubiquitin-chain-binding uba protein ddi1 26s proteasome polyubiquitin chains degradation signal subunit mcb1 aaa-atpase domains system receptors},
+  type =     {Journal Article},
+  url =      {<Go to ISI>://WOS:000273723200025}
+}
+
+@Article{finley09,
+  author =   {Finley, D.},
+  title =    {Recognition and processing of ubiquitin-protein conjugates by the proteasome},
+  journal =  {Annu. Rev. Biochem.},
+  year =     {2009},
+  volume =   {78},
+  pages =    {477-513},
+  doi =      {10.1146/annurev.biochem.78.081507.101607},
+  issn =     {1545-4509 (Electronic) 0066-4154 (Linking)},
+  keywords = {Animals Arabidopsis/*enzymology Humans Proteasome Endopeptidase Complex/chemistry/*metabolism Proteins/*metabolism Ubiquitin/chemistry/*metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/19489727}
+}
+
+@Article{fu98,
+  author =   {Fu, H. and Doelling, J. H. and Arendt, C. S. and Hochstrasser, M. and Vierstra, R. D.},
+  title =    {Molecular organization of the 20S proteasome gene family from Arabidopsis thaliana},
+  journal =  {Genetics},
+  year =     {1998},
+  volume =   {149},
+  number =   {2},
+  pages =    {677-92},
+  issn =     {0016-6731 (Print) 0016-6731 (Linking)},
+  keywords = {Amino Acid Sequence Arabidopsis/*genetics Cloning, Molecular Cysteine Endopeptidases/*genetics/isolation & purification DNA, Plant/analysis Electrophoresis, Agar Gel Molecular Sequence Data Multienzyme Complexes/*genetics/isolation & purification Multigene Family/*genetics Phylogeny Proteasome Endopeptidase Complex RNA, Plant/analysis Saccharomyces cerevisiae/genetics Sequence Homology, Amino Acid},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/9611183}
+}
+
+@Article{funakoshi09,
+  author =   {Funakoshi, M. and Tomko, R. J., Jr. and Kobayashi, H. and Hochstrasser, M.},
+  title =    {Multiple assembly chaperones govern biogenesis of the proteasome regulatory particle base},
+  journal =  {Cell},
+  year =     {2009},
+  volume =   {137},
+  number =   {5},
+  pages =    {887-99},
+  doi =      {10.1016/j.cell.2009.04.061},
+  issn =     {1097-4172 (Electronic) 0092-8674 (Linking)},
+  keywords = {Adenosine Triphosphatases/chemistry/metabolism Amino Acid Sequence Molecular Chaperones/metabolism Molecular Sequence Data Proteasome Endopeptidase Complex/*biosynthesis/metabolism Saccharomyces cerevisiae/*metabolism Saccharomyces cerevisiae Proteins/chemistry/metabolism Sequence Alignment},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/19446322}
+}
+
+@Article{gamborg68,
+  author =   {Gamborg, O. L. and Miller, R. A. and Ojima, K.},
+  title =    {Nutrient requirements of suspension cultures of soybean root cells},
+  journal =  {Exp. Cell. Res.},
+  year =     {1968},
+  volume =   {50},
+  number =   {1},
+  pages =    {151-8},
+  issn =     {0014-4827 (Print) 0014-4827 (Linking)},
+  keywords = {Culture Media *Plant Development},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/5650857}
+}
+
+@Article{gelvin03,
+  author =   {Gelvin, S. B.},
+  title =    {Agrobacterium-mediated plant transformation: the biology behind the "gene-jockeying" tool},
+  journal =  {Microbiol. Mol. Biol. Rev.},
+  year =     {2003},
+  volume =   {67},
+  number =   {1},
+  pages =    {16-37, table of contents},
+  issn =     {1092-2172 (Print) 1092-2172 (Linking)},
+  keywords = {Biotechnology/*methods Gene Expression Regulation Gene Silencing Gene Transfer Techniques Genes, Plant Genetic Engineering/*methods Plants, Genetically Modified Rhizobium/*genetics/pathogenicity *Transformation, Genetic Transgenes Virulence/genetics},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/12626681}
+}
+
+@Article{gemperline16,
+  author =  {Gemperline, D. C. and Scalf, M. and Smith, L. M. and Vierstra, R. D.},
+  title =   {Morpheus Spectral Counter: A computational tool for label-free quantitative mass spectrometry using the Morpheus search engine},
+  journal = {Proteomics},
+  year =    {2016},
+  volume =  {16},
+  number =  {6},
+  pages =   {920-4},
+  doi =     {10.1002/pmic.201500420},
+  issn =    {1615-9861 (Electronic) 1615-9853 (Linking)},
+  type =    {Journal Article},
+  url =     {http://www.ncbi.nlm.nih.gov/pubmed/26791624}
+}
+
+@Article{gladman16,
+  author =  {Gladman, N. P. and Marshall, R. S. and Lee, K. H. and Vierstra, R. D.},
+  title =   {The Proteasome Stress Regulon Is Controlled by a Pair of NAC Transcription Factors in Arabidopsis},
+  journal = {Plant Cell},
+  year =    {2016},
+  volume =  {28},
+  number =  {6},
+  pages =   {1279-96},
+  doi =     {10.1105/tpc.15.01022},
+  issn =    {1532-298X (Electronic) 1040-4651 (Linking)},
+  type =    {Journal Article},
+  url =     {http://www.ncbi.nlm.nih.gov/pubmed/27194708}
+}
+
+@Article{gonnet92,
+  author =   {Gonnet, G. H. and Cohen, M. A. and Benner, S. A.},
+  title =    {Exhaustive matching of the entire protein sequence database},
+  journal =  {Science},
+  year =     {1992},
+  volume =   {256},
+  number =   {5062},
+  pages =    {1443-5},
+  issn =     {0036-8075 (Print) 0036-8075 (Linking)},
+  keywords = {*Amino Acid Sequence *Databases, Factual Mathematics Proteins/*genetics Sequence Homology, Nucleic Acid},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/1604319}
+}
+
+@Article{goodstein12,
+  author =   {Goodstein, D. M. and Shu, S. and Howson, R. and Neupane, R. and Hayes, R. D. and Fazo, J. and Mitros, T. and Dirks, W. and Hellsten, U. and Putnam, N. and Rokhsar, D. S.},
+  title =    {Phytozome: a comparative platform for green plant genomics},
+  journal =  {Nucleic Acids Res.},
+  year =     {2012},
+  volume =   {40},
+  number =   {Database issue},
+  pages =    {D1178-86},
+  doi =      {10.1093/nar/gkr944},
+  issn =     {1362-4962 (Electronic) 0305-1048 (Linking)},
+  keywords = {*Databases, Nucleic Acid *Genes, Plant *Genome, Plant Genomics Multigene Family Software},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/22110026}
+}
+
+@Article{jones14,
+  author =   {Jones, P. and Binns, D. and Chang, H. Y. and Fraser, M. and Li, W. and McAnulla, C. and McWilliam, H. and Maslen, J. and Mitchell, A. and Nuka, G. and Pesseat, S. and Quinn, A. F. and Sangrador-Vegas, A. and Scheremetjew, M. and Yong, S. Y. and Lopez, R. and Hunter, S.},
+  title =    {InterProScan 5: genome-scale protein function classification},
+  journal =  {Bioinformatics},
+  year =     {2014},
+  volume =   {30},
+  number =   {9},
+  pages =    {1236-40},
+  doi =      {10.1093/bioinformatics/btu031},
+  issn =     {1367-4811 (Electronic) 1367-4803 (Linking)},
+  keywords = {Arabidopsis/chemistry/genetics Cluster Analysis *Genome Genomics/*methods High-Throughput Nucleotide Sequencing/*methods Programming Languages Proteins/*analysis/genetics/metabolism Software},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/24451626}
+}
+
+@article{julio06,
+   author = {Julio, Salinas and Jose, Sanchez-Serrano J.},
+   title = {Arabidopsis Protocols, Second Edition},
+   volume = {323},
+   DOI = {10.1385/1597450030},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@Article{kock15,
+  author =   {Kock, M. and Nunes, M. M. and Hemann, M. and Kube, S. and Dohmen, R. J. and Herzog, F. and Ramos, P. C. and Wendler, P.},
+  title =    {Proteasome assembly from 15S precursors involves major conformational changes and recycling of the Pba1-Pba2 chaperone},
+  journal =  {Nat. Commun.},
+  year =     {2015},
+  volume =   {6},
+  pages =    {6123},
+  doi =      {10.1038/ncomms7123},
+  issn =     {2041-1723 (Electronic) 2041-1723 (Linking)},
+  keywords = {Cross-Linking Reagents/chemistry Dimerization Mass Spectrometry Microscopy, Electron Molecular Chaperones/*metabolism Proteasome Endopeptidase Complex/chemistry/*metabolism Protein Binding Protein Conformation Protein Structure, Secondary Protein Structure, Tertiary Protein Subunits/metabolism Saccharomyces cerevisiae/metabolism Saccharomyces cerevisiae Proteins/*metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/25609009}
+}
+
+@Article{kunjappu14,
+  author =   {Kunjappu, M. J. and Hochstrasser, M.},
+  title =    {Assembly of the 20S proteasome},
+  journal =  {Biochim. Biophys. Acta},
+  year =     {2014},
+  volume =   {1843},
+  number =   {1},
+  pages =    {2-12},
+  doi =      {10.1016/j.bbamcr.2013.03.008},
+  issn =     {0006-3002 (Print) 0006-3002 (Linking)},
+  keywords = {Animals Humans Models, Molecular Molecular Chaperones/physiology Proteasome Endopeptidase Complex/chemistry/*metabolism Protein Isoforms/physiology Protein Multimerization/*physiology Protein Subunits/metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/23507199}
+}
+
+@Article{kusmierczyk11,
+  author =   {Kusmierczyk, A. R. and Kunjappu, M. J. and Kim, R. Y. and Hochstrasser, M.},
+  title =    {A conserved 20S proteasome assembly factor requires a C-terminal HbYX motif for proteasomal precursor binding},
+  journal =  {Nat. Struct. Mol. Biol.},
+  year =     {2011},
+  volume =   {18},
+  number =   {5},
+  pages =    {622-9},
+  doi =      {10.1038/nsmb.2027},
+  issn =     {1545-9985 (Electronic) 1545-9985 (Linking)},
+  keywords = {Amino Acid Motifs Binding Sites Conserved Sequence Proteasome Endopeptidase Complex/metabolism Saccharomyces cerevisiae Saccharomyces cerevisiae Proteins/*chemistry/metabolism Sequence Analysis, Protein Structure-Activity Relationship},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/21499243}
+}
+
+@Article{laemmli70,
+  author =  {Laemmli, U. K.},
+  title =   {Cleavage of Structural Proteins during the Assembly of the Head of Bacteriophage T4},
+  journal = {Nature},
+  year =    {1970},
+  volume =  {227},
+  number =  {5259},
+  pages =   {680-685},
+  doi =     {10.1038/227680a0},
+  issn =    {0028-0836},
+  type =    {Journal Article}
+}
+
+@Article{lander12,
+  author =   {Lander, G. C. and Estrin, E. and Matyskiela, M. E. and Bashore, C. and Nogales, E. and Martin, A.},
+  title =    {Complete subunit architecture of the proteasome regulatory particle},
+  journal =  {Nature},
+  year =     {2012},
+  volume =   {482},
+  number =   {7384},
+  pages =    {186-191},
+  doi =      {Doi 10.1038/Nature10774},
+  issn =     {0028-0836},
+  keywords = {electron-microscopy 26s proteasome saccharomyces-cerevisiae ubiquitin chains new-generation core particle degradation translocation proteins atpases},
+  type =     {Journal Article},
+  url =      {<Go to ISI>://WOS:000299994100031}
+}
+
+@Article{lasker12,
+  author =   {Lasker, K. and Förster, F. and Bohn, S. and Walzthoeni, T. and Villa, E. and Unverdorben, P. and Beck, F. and Aebersold, R. and Sali, A. and Baumeister, W.},
+  title =    {Molecular architecture of the 26S proteasome holocomplex determined by an integrative approach},
+  journal =  {Proc. Natl. Acad. Sci. U.S.A.},
+  year =     {2012},
+  volume =   {109},
+  number =   {5},
+  pages =    {1380-1387},
+  doi =      {DOI 10.1073/pnas.1120559109},
+  issn =     {0027-8424},
+  keywords = {coiled coils mass spectrometry proteasome-cop9-eif3 domain proteasome-cyclosome repeats yeast saccharomyces-cerevisiae macromolecular assemblies regulatory particle methanocaldococcus-jannaschii deubiquitinating enzyme polyubiquitin chains ubiquitin receptor protein complexes crystal-structure 20s proteasomes},
+  type =     {Journal Article},
+  url =      {<Go to ISI>://WOS:000299731400018}
+}
+
+@Article{le07,
+  author =   {Le Tallec, B. and Barrault, M. B. and Courbeyrette, R. and Guérois, R. and Marsolier-Kergoat, M. C. and Peyroche, A.},
+  title =    {20S proteasome assembly is orchestrated by two distinct pairs of chaperones in yeast and mammals},
+  journal =  {Mol. Cell},
+  year =     {2007},
+  volume =   {27},
+  number =   {4},
+  pages =    {660-674},
+  doi =      {DOI 10.1016/j.molcel.2007.06.025},
+  issn =     {1097-2765},
+  keywords = {active-site formation DNA-damage response saccharomyces-cerevisiae precursor complexes 26s proteasome beta-subunits s proteasome maturation biogenesis checkpoint},
+  type =     {Journal Article},
+  url =      {<Go to ISI>://WOS:000249050200016}
+}
+
+@Article{leggett02,
+  author =   {Leggett, D. S. and Hanna, J. and Borodovsky, A. and Crosas, B. and Schmidt, M. and Baker, R. T. and Walz, T. and Ploegh, H. L. and Finley, D.},
+  title =    {Multiple associated proteins regulate proteasome structure and function},
+  journal =  {Mol. Cell},
+  year =     {2002},
+  volume =   {10},
+  number =   {3},
+  pages =    {495-507},
+  doi =      {Doi 10.1016/S1097-2765(02)00638-X},
+  issn =     {1097-2765},
+  keywords = {doa4 deubiquitinating enzyme 26s proteasome saccharomyces-cerevisiae core particle ubiquitin yeast identification pathway complex domain},
+  type =     {Journal Article},
+  url =      {<Go to ISI>://WOS:000178330900009}
+}
+
+@Article{leggett05,
+  author =   {Leggett, D. S. and Glickman, M. H. and Finley, D.},
+  title =    {Purification of proteasomes, proteasome subcomplexes, and proteasome-associated proteins from budding yeast},
+  journal =  {Methods Mol. Biol.},
+  year =     {2005},
+  volume =   {301},
+  pages =    {57-70},
+  doi =      {10.1385/1-59259-895-1:057},
+  issn =     {1064-3745 (Print) 1064-3745 (Linking)},
+  keywords = {Chromatography, Affinity/methods Proteasome Endopeptidase Complex/*chemistry/*isolation & purification Saccharomyces cerevisiae/*enzymology},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/15917626}
+}
+
+@Article{lehmann10,
+  author =   {Lehmann, A. and Niewienda, A. and Jechow, K. and Janek, K. and Enenkel, C.},
+  title =    {Ecm29 fulfils quality control functions in proteasome assembly},
+  journal =  {Mol. Cell},
+  year =     {2010},
+  volume =   {38},
+  number =   {6},
+  pages =    {879-88},
+  doi =      {10.1016/j.molcel.2010.06.016},
+  issn =     {1097-4164 (Electronic) 1097-2765 (Linking)},
+  keywords = {Proteasome Endopeptidase Complex/genetics/*metabolism/physiology Protein Subunits/metabolism Saccharomyces cerevisiae/*enzymology Saccharomyces cerevisiae Proteins/genetics/*physiology},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/20620957}
+}
+
+@Article{li07,
+  author =   {Li, X. and Kusmierczyk, A. R. and Wong, P. and Emili, A. and Hochstrasser, M.},
+  title =    {beta-Subunit appendages promote 20S proteasome assembly by overcoming an Ump1-dependent checkpoint},
+  journal =  {EMBO J.},
+  year =     {2007},
+  volume =   {26},
+  number =   {9},
+  pages =    {2339-49},
+  doi =      {10.1038/sj.emboj.7601681},
+  issn =     {0261-4189 (Print) 0261-4189 (Linking)},
+  keywords = {Cysteine Endopeptidases/biosynthesis Dimerization Humans Models, Molecular Molecular Chaperones/genetics/*metabolism Mutation Proteasome Endopeptidase Complex/*biosynthesis Protein Precursors/*biosynthesis Protein Structure, Tertiary Protein Subunits/biosynthesis Saccharomyces cerevisiae/*physiology Saccharomyces cerevisiae Proteins/*biosynthesis},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/17431397}
+}
+
+@Article{lin11,
+  author =   {Lin, Y. L. and Sung, S. C. and Tsai, H. L. and Yu, T. T. and Radjacommare, R. and Usharani, R. and Fatimababy, A. S. and Lin, H. Y. and Wang, Y. Y. and Fu, H.},
+  title =    {The defective proteasome, not substrate recognition function, is responsible for the null phenotypes of the Arabidopsis proteasome subunit RPN10},
+  journal =  {Plant Cell},
+  year =     {2011},
+  volume =   {23},
+  number =   {7},
+  pages =    {2754-2773},
+  doi =      {DOI 10.1105/tpc.111.086702},
+  issn =     {1040-4651},
+  keywords = {lys48-linked polyubiquitin chain ubiquitin-binding proteins 26s proteasome regulatory particle gametophyte development degradation signal transgenic plants uba domain aaa-atpase pathway},
+  type =     {Journal Article},
+  url =      {<Go to ISI>://WOS:000294164300026}
+}
+
+@Article{liu06,
+  author =   {Liu, C. W. and Li, X. and Thompson, D. and Wooding, K. and Chang, T. L. and Tang, Z. and Yu, H. and Thomas, P. J. and DeMartino, G. N.},
+  title =    {ATP binding and ATP hydrolysis play distinct roles in the function of 26S proteasome},
+  journal =  {Mol. Cell},
+  year =     {2006},
+  volume =   {24},
+  number =   {1},
+  pages =    {39-50},
+  doi =      {10.1016/j.molcel.2006.08.025},
+  issn =     {1097-2765 (Print) 1097-2765 (Linking)},
+  keywords = {Adenosine Triphosphate/*metabolism/physiology Animals Cattle Enzyme Stability Humans Hydrolysis Models, Biological Proteasome Endopeptidase Complex/metabolism/*physiology Protein Folding Ubiquitin/metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/17018291}
+}
+
+@Article{livneh16,
+  author =  {Livneh, I. and Cohen-Kaplan, V. and Cohen-Rosenzweig, C. and Avni, N. and Ciechanover, A.},
+  title =   {The life cycle of the 26S proteasome: from birth, through regulation and function, and onto its death},
+  journal = {Cell Res.},
+  year =    {2016},
+  volume =  {26},
+  number =  {8},
+  pages =   {869-85},
+  doi =     {10.1038/cr.2016.86},
+  issn =    {1748-7838 (Electronic) 1001-0602 (Linking)},
+  type =    {Journal Article},
+  url =     {http://www.ncbi.nlm.nih.gov/pubmed/27444871}
+}
+
+@Article{marques07,
+  author =   {Marques, A. J. and Glanemann, C. and Ramos, P. C. and Dohmen, R. J.},
+  title =    {The C-terminal extension of the beta7 subunit and activator complexes stabilize nascent 20 S proteasomes and promote their maturation},
+  journal =  {J. Biol. Chem.},
+  year =     {2007},
+  volume =   {282},
+  number =   {48},
+  pages =    {34869-76},
+  doi =      {10.1074/jbc.M705836200},
+  issn =     {0021-9258 (Print) 0021-9258 (Linking)},
+  keywords = {Binding Sites Chromatography Cysteine Endopeptidases/chemistry Dimerization Models, Biological Molecular Chaperones/metabolism Multienzyme Complexes/chemistry Mutation Peptides/chemistry Proteasome Endopeptidase Complex/*chemistry/metabolism Protein Structure, Tertiary Saccharomyces cerevisiae/metabolism Saccharomyces cerevisiae Proteins/metabolism Subcellular Fractions/metabolism Temperature},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/17911101}
+}
+
+@Article{marshall15,
+  author =   {Marshall, R. S. and Li, F. and Gemperline, D. C. and Book, A. J. and Vierstra, R. D.},
+  title =    {Autophagic Degradation of the 26S Proteasome Is Mediated by the Dual ATG8/Ubiquitin Receptor RPN10 in Arabidopsis},
+  journal =  {Mol. Cell},
+  year =     {2015},
+  volume =   {58},
+  number =   {6},
+  pages =    {1053-66},
+  doi =      {10.1016/j.molcel.2015.04.023},
+  issn =     {1097-4164 (Electronic) 1097-2765 (Linking)},
+  keywords = {Amino Acid Sequence Arabidopsis/genetics/*metabolism Arabidopsis Proteins/genetics/*metabolism *Autophagy Cysteine Proteinase Inhibitors/pharmacology Green Fluorescent Proteins/genetics/metabolism Immunoblotting Leupeptins/pharmacology Microscopy, Confocal Microtubule-Associated Proteins/genetics/*metabolism Models, Biological Molecular Sequence Data Mutation Plants, Genetically Modified Proteasome Endopeptidase Complex/genetics/*metabolism Protein Binding/drug effects Sequence Homology, Amino Acid Two-Hybrid System Techniques Ubiquitination/drug effects},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/26004230}
+}
+
+@book{marshall17,
+   author = {Marshall, R. S. and Gemperline, D. C. and Vierstra, R. D.},
+   title = {Isolation of Plant Organelles and Structures},
+   publisher = {Humana Press},
+   address = {Methods in Molecular Biology},
+   volume = {1},
+   edition = {1},
+   series = {Methods in Molecular Biology},
+   pages = {X, 290},
+   ISBN = {978-1-4939-6531-1},
+   DOI = {10.1007/978-1-4939-6533-5},
+   year = {2017},
+   type = {Book}
+}
+
+@Article{martin09,
+  author =   {Martin, K. and Kopperud, K. and Chakrabarty, R. and Banerjee, R. and Brooks, R. and Goodin, M. M.},
+  title =    {Transient expression in Nicotiana benthamiana fluorescent marker lines provides enhanced definition of protein localization, movement and interactions in planta},
+  journal =  {Plant J.},
+  year =     {2009},
+  volume =   {59},
+  number =   {1},
+  pages =    {150-62},
+  doi =      {10.1111/j.1365-313X.2009.03850.x},
+  issn =     {1365-313X (Electronic) 0960-7412 (Linking)},
+  keywords = {Gene Expression Regulation, Plant Genetic Vectors Green Fluorescent Proteins/genetics/*metabolism Luminescent Proteins/genetics/*metabolism Microscopy, Confocal Plants, Genetically Modified/genetics/metabolism Protein Transport Recombinant Fusion Proteins/genetics/*metabolism Tobacco/*genetics/metabolism Transformation, Genetic},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/19309457}
+}
+
+@Article{mi05,
+  author =   {Mi, H. and Lazareva-Ulitsky, B. and Loo, R. and Kejariwal, A. and Vandergriff, J. and Rabkin, S. and Guo, N. and Muruganujan, A. and Doremieux, O. and Campbell, M. J. and Kitano, H. and Thomas, P. D.},
+  title =    {The PANTHER database of protein families, subfamilies, functions and pathways},
+  journal =  {Nucleic Acids Res.},
+  year =     {2005},
+  volume =   {33},
+  number =   {Database issue},
+  pages =    {D284-8},
+  doi =      {10.1093/nar/gki078},
+  issn =     {1362-4962 (Electronic) 0305-1048 (Linking)},
+  keywords = {Animals *Databases, Protein/statistics & numerical data Gene Expression Profiling Humans Internet Markov Chains Mice Proteins/chemistry/*classification/physiology Rats *Sequence Analysis, Protein Signal Transduction Systems Integration User-Computer Interface},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/15608197}
+}
+
+@Article{murashige62,
+  author =  {Murashige, Toshio and Skoog, Folke},
+  title =   {A Revised Medium for Rapid Growth and Bio Assays with Tobacco Tissue Cultures},
+  journal = {Physiol. Plant.},
+  year =    {1962},
+  volume =  {15},
+  number =  {3},
+  pages =   {473-497},
+  doi =     {10.1111/j.1399-3054.1962.tb08052.x},
+  issn =    {0031-9317 1399-3054},
+  type =    {Journal Article}
+}
+
+@Article{murata07,
+  author =   {Murata, S. and Sasaki, K. and Kishimoto, T. and Niwa, S. and Hayashi, H. and Takahama, Y. and Tanaka, K.},
+  title =    {Regulation of CD8+ T cell development by thymus-specific proteasomes},
+  journal =  {Science},
+  year =     {2007},
+  volume =   {316},
+  number =   {5829},
+  pages =    {1349-53},
+  doi =      {10.1126/science.1141915},
+  issn =     {1095-9203 (Electronic) 0036-8075 (Linking)},
+  keywords = {Amino Acid Sequence Animals Autoantigens/immunology/metabolism CD4-Positive T-Lymphocytes/cytology/immunology CD8-Positive T-Lymphocytes/cytology/*immunology Catalytic Domain Epithelial Cells/enzymology Green Fluorescent Proteins/genetics/metabolism Histocompatibility Antigens Class I/immunology/metabolism Humans Lymphopoiesis Molecular Sequence Data Peptides/chemistry/metabolism Proteasome Endopeptidase Complex/chemistry/genetics/*metabolism Spleen/cytology/immunology T-Lymphocyte Subsets/cytology/immunology Thymus Gland/*cytology/*enzymology/immunology},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/17540904}
+}
+
+@Article{murata09,
+  author =   {Murata, S. and Yashiroda, H. and Tanaka, K.},
+  title =    {Molecular mechanisms of proteasome assembly},
+  journal =  {Nat. Rev. Mol. Cell Biol.},
+  year =     {2009},
+  volume =   {10},
+  number =   {2},
+  pages =    {104-15},
+  doi =      {10.1038/nrm2630},
+  issn =     {1471-0080 (Electronic) 1471-0072 (Linking)},
+  keywords = {Animals Archaeal Proteins/chemistry/metabolism Bacterial Proteins/chemistry/metabolism Dimerization Evolution, Molecular Fungal Proteins/chemistry/metabolism Humans Models, Molecular Molecular Chaperones/metabolism *Proteasome Endopeptidase Complex/chemistry/genetics/metabolism Protein Structure, Quaternary Protein Structure, Tertiary Protein Subunits/*metabolism Ubiquitin/metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/19165213}
+}
+
+@Article{nandi96,
+  author =   {Nandi, D. and Jiang, H. and Monaco, J. J.},
+  title =    {Identification of MECL-1 (LMP-10) as the third IFN-gamma-inducible proteasome subunit},
+  journal =  {J. Immunol.},
+  year =     {1996},
+  volume =   {156},
+  number =   {7},
+  pages =    {2361-4},
+  issn =     {0022-1767 (Print) 0022-1767 (Linking)},
+  keywords = {Animals Base Sequence Cysteine Endopeptidases/*biosynthesis/chemistry/genetics DNA Primers/genetics Humans Interferon-gamma/*pharmacology Liver Neoplasms, Experimental/genetics/metabolism Mice Molecular Sequence Data Multienzyme Complexes/*biosynthesis/chemistry/genetics Proteasome Endopeptidase Complex Protein Precursors/biosynthesis/chemistry/genetics Recombinant Proteins Tumor Cells, Cultured},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/8786291}
+}
+
+@Article{ortega05,
+  author =   {Ortega, J. and Heymann, J. B. and Kajava, A. V. and Ustrell, V. and Rechsteiner, M. and Steven, A. C.},
+  title =    {The axial channel of the 20S proteasome opens upon binding of the PA200 activator},
+  journal =  {J. Mol. Biol.},
+  year =     {2005},
+  volume =   {346},
+  number =   {5},
+  pages =    {1221-7},
+  doi =      {10.1016/j.jmb.2004.12.049},
+  issn =     {0022-2836 (Print) 0022-2836 (Linking)},
+  keywords = {*Allosteric Site Catalytic Domain Ion Channels/chemistry/*metabolism/ultrastructure Proteasome Endopeptidase Complex/chemistry/*metabolism/ultrastructure Protein Binding Protein Conformation Protein Folding Repetitive Sequences, Amino Acid/*physiology},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/15713476}
+}
+
+@Article{paraskevopoulos14,
+  author =   {Paraskevopoulos, K. and Kriegenburg, F. and Tatham, M. H. and Rösner, H. I. and Medina, B. and Larsen, I. B. and Brandstrup, R. and Hardwick, K. G. and Hay, R. T. and Kragelund, B. B. and Hartmann-Petersen, R. and Gordon, C.},
+  title =    {Dss1 is a 26S proteasome ubiquitin receptor},
+  journal =  {Mol. Cell},
+  year =     {2014},
+  volume =   {56},
+  number =   {3},
+  pages =    {453-461},
+  doi =      {DOI 10.1016/j.molcel.2014.09.008},
+  issn =     {1097-2765},
+  keywords = {regulatory particle binding proteins fission yeast degradation subunit complex domain sem1 localization recognition},
+  type =     {Journal Article},
+  url =      {<Go to ISI>://WOS:000344484800013}
+}
+
+@Article{park10,
+  author =   {Park, S. and Tian, G. and Roelofs, J. and Finley, D.},
+  title =    {Assembly manual for the proteasome regulatory particle: the first draft},
+  journal =  {Biochem. Soc. Trans.},
+  year =     {2010},
+  volume =   {38},
+  number =   {Pt 1},
+  pages =    {6-13},
+  doi =      {10.1042/BST0380006},
+  issn =     {1470-8752 (Electronic) 0300-5127 (Linking)},
+  keywords = {Adenosine Triphosphatases/chemistry/genetics/metabolism Animals Archaeal Proteins/chemistry/genetics/metabolism Models, Molecular Molecular Chaperones/chemistry/genetics/metabolism Molecular Weight Proteasome Endopeptidase Complex/*chemistry/genetics/*metabolism Protein Binding Protein Conformation Protein Subunits/*chemistry/genetics/*metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/20074027}
+}
+
+@Article{pathare12,
+  author =   {Pathare, G. R. and Nagy, I. and Bohn, S. and Unverdorben, P. and Hubert, A. and Korner, R. and Nickell, S. and Lasker, K. and Sali, A. and Tamura, T. and Nishioka, T. and Forster, F. and Baumeister, W. and Bracher, A.},
+  title =    {The proteasomal subunit Rpn6 is a molecular clamp holding the core and regulatory subcomplexes together},
+  journal =  {Proc. Natl. Acad. Sci. U.S.A.},
+  year =     {2012},
+  volume =   {109},
+  number =   {1},
+  pages =    {149-54},
+  doi =      {10.1073/pnas.1117648108},
+  issn =     {1091-6490 (Electronic) 0027-8424 (Linking)},
+  keywords = {Amino Acid Sequence Animals Conserved Sequence Crystallography, X-Ray Drosophila Proteins/chemistry/*metabolism Drosophila melanogaster/*enzymology Models, Molecular Molecular Sequence Data Multiprotein Complexes/*metabolism Proteasome Endopeptidase Complex/chemistry/*metabolism/ultrastructure Protein Binding Protein Subunits/chemistry/*metabolism Schizosaccharomyces/enzymology Solutions Surface Properties},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/22187461}
+}
+
+@Article{ramos98,
+  author =   {Ramos, P. C. and Hockendorff, J. and Johnson, E. S. and Varshavsky, A. and Dohmen, R. J.},
+  title =    {Ump1p is required for proper maturation of the 20S proteasome and becomes its substrate upon completion of the assembly},
+  journal =  {Cell},
+  year =     {1998},
+  volume =   {92},
+  number =   {4},
+  pages =    {489-99},
+  issn =     {0092-8674 (Print) 0092-8674 (Linking)},
+  keywords = {*Cysteine Endopeptidases Endopeptidases/genetics Fungal Proteins/genetics Gene Expression Regulation, Enzymologic Gene Expression Regulation, Fungal Molecular Chaperones/*genetics/*metabolism Molecular Sequence Data Mutagenesis Proteasome Endopeptidase Complex Protein Precursors/metabolism Saccharomyces cerevisiae/*genetics *Saccharomyces cerevisiae Proteins Sequence Homology, Amino Acid Spores, Fungal/physiology Substrate Specificity Ubiquitins/*metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/9491890}
+}
+
+@Article{rappsilber03,
+  author =   {Rappsilber, J. and Ishihama, Y. and Mann, M.},
+  title =    {Stop and go extraction tips for matrix-assisted laser desorption/ionization, nanoelectrospray, and LC/MS sample pretreatment in proteomics},
+  journal =  {Anal. Chem.},
+  year =     {2003},
+  volume =   {75},
+  number =   {3},
+  pages =    {663-70},
+  issn =     {0003-2700 (Print) 0003-2700 (Linking)},
+  keywords = {Animals Cattle Chromatography, Liquid Mass Spectrometry/instrumentation/*methods Proteomics/instrumentation/*methods Serum Albumin, Bovine/analysis Spectrometry, Mass, Electrospray Ionization Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/12585499}
+}
+
+@Article{ronquist12,
+  author =   {Ronquist, F. and Teslenko, M. and van der Mark, P. and Ayres, D. L. and Darling, A. and Hohna, S. and Larget, B. and Liu, L. and Suchard, M. A. and Huelsenbeck, J. P.},
+  title =    {MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space},
+  journal =  {Syst. Biol.},
+  year =     {2012},
+  volume =   {61},
+  number =   {3},
+  pages =    {539-42},
+  doi =      {10.1093/sysbio/sys029},
+  issn =     {1076-836X (Electronic) 1063-5157 (Linking)},
+  keywords = {Algorithms Classification/*methods Markov Chains Models, Biological Monte Carlo Method Phylogeny *Software},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/22357727}
+}
+
+@Article{russell13,
+  author =   {Russell, J. D. and Scalf, M. and Book, A. J. and Ladror, D. T. and Vierstra, R. D. and Smith, L. M. and Coon, J. J.},
+  title =    {Characterization and quantification of intact 26S proteasome proteins by real-time measurement of intrinsic fluorescence prior to top-down mass spectrometry},
+  journal =  {PLoS One},
+  year =     {2013},
+  volume =   {8},
+  number =   {3},
+  pages =    {e58157},
+  doi =      {10.1371/journal.pone.0058157},
+  issn =     {1932-6203 (Electronic) 1932-6203 (Linking)},
+  keywords = {Amino Acid Sequence Arabidopsis/chemistry Arabidopsis Proteins/analysis/chemistry Carrier Proteins/analysis/chemistry Fluorescence *Mass Spectrometry/methods Proteasome Endopeptidase Complex/analysis/*chemistry Proteins/analysis/*chemistry Reproducibility of Results Tandem Mass Spectrometry},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/23536786}
+}
+
+@Article{sadre-bazzaz10,
+  author =   {Sadre-Bazzaz, K. and Whitby, F. G. and Robinson, H. and Formosa, T. and Hill, C. P.},
+  title =    {Structure of a Blm10 complex reveals common mechanisms for proteasome binding and gate opening},
+  journal =  {Mol. Cell},
+  year =     {2010},
+  volume =   {37},
+  number =   {5},
+  pages =    {728-735},
+  doi =      {DOI 10.1016/j.molcel.2010.02.002},
+  issn =     {1097-2765},
+  keywords = {20s proteasome angstrom resolution activator pa200 s-proteasome yeast conformation acidophilum atpases subunit termini},
+  type =     {Journal Article},
+  url =      {<Go to ISI>://WOS:000275702500016}
+}
+
+@Article{saveliev13,
+  author =   {Saveliev, S. V. and Woodroofe, C. C. and Sabat, G. and Adams, C. M. and Klaubert, D. and Wood, K. and Urh, M.},
+  title =    {Mass spectrometry compatible surfactant for optimized in-gel protein digestion},
+  journal =  {Anal. Chem.},
+  year =     {2013},
+  volume =   {85},
+  number =   {2},
+  pages =    {907-14},
+  doi =      {10.1021/ac302423t},
+  issn =     {1520-6882 (Electronic) 0003-2700 (Linking)},
+  keywords = {Gels/chemistry/metabolism Molecular Structure Proteins/chemistry/*metabolism Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization Surface-Active Agents/*chemistry/metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/23256507}
+}
+
+@Article{savulescu11,
+  author =   {Savulescu, A. F. and Glickman, M. H.},
+  title =    {Proteasome activator 200: the heat is on},
+  journal =  {Mol. Cell. Proteomics},
+  year =     {2011},
+  volume =   {10},
+  number =   {5},
+  pages =    {R110 006890},
+  doi =      {10.1074/mcp.R110.006890},
+  issn =     {1535-9484 (Electronic) 1535-9476 (Linking)},
+  keywords = {Animals Enzyme Activation Humans Models, Molecular Nuclear Proteins/*metabolism Proteasome Endopeptidase Complex/chemistry/*metabolism Protein Conformation Protein Multimerization Saccharomyces cerevisiae Saccharomyces cerevisiae Proteins/chemistry/metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/21389348}
+}
+
+@Article{schmidt05,
+  author =   {Schmidt, M. and Haas, W. and Crosas, B. and Santamaria, P. G. and Gygi, S. P. and Walz, T. and Finley, D.},
+  title =    {The HEAT repeat protein Blm10 regulates the yeast proteasome by capping the core particle},
+  journal =  {Nat. Struct. Mol. Biol.},
+  year =     {2005},
+  volume =   {12},
+  number =   {4},
+  pages =    {294-303},
+  doi =      {10.1038/nsmb914},
+  issn =     {1545-9993 (Print) 1545-9985 (Linking)},
+  keywords = {DNA-Binding Proteins/genetics/metabolism Enzyme Activation Gene Deletion Multiprotein Complexes/chemistry/metabolism Nuclear Proteins/metabolism Proteasome Endopeptidase Complex/chemistry/*metabolism Protein Binding Protein Structure, Tertiary Protein Subunits/metabolism Protein Transport Saccharomyces cerevisiae/genetics/*metabolism Saccharomyces cerevisiae Proteins/*chemistry/genetics/*metabolism Transcription Factors/genetics/metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/15778719}
+}
+
+@Article{schreiner08,
+  author =   {Schreiner, P. and Chen, X. and Husnjak, K. and Randles, L. and Zhang, N. and Elsasser, S. and Finley, D. and Dikic, I. and Walters, K. J. and Groll, M.},
+  title =    {Ubiquitin docking at the proteasome through a novel pleckstrin-homology domain interaction},
+  journal =  {Nature},
+  year =     {2008},
+  volume =   {453},
+  number =   {7194},
+  pages =    {548-52},
+  doi =      {10.1038/nature06924},
+  issn =     {1476-4687 (Electronic) 0028-0836 (Linking)},
+  keywords = {Amino Acid Motifs Animals Cell Adhesion Molecules/*chemistry/genetics/*metabolism Crystallography, X-Ray Humans Membrane Glycoproteins/chemistry/genetics/metabolism Mice Models, Molecular Nuclear Magnetic Resonance, Biomolecular Proteasome Endopeptidase Complex/*chemistry/*metabolism Protein Binding Protein Structure, Tertiary Protein Subunits/chemistry/genetics/metabolism Ubiquitin/chemistry/*metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/18497827}
+}
+
+@Article{shi16,
+  author =   {Shi, Y. and Chen, X. and Elsasser, S. and Stocks, B. B. and Tian, G. and Lee, B. H. and Shi, Y. and Zhang, N. and de Poot, S. A. and Tuebing, F. and Sun, S. and Vannoy, J. and Tarasov, S. G. and Engen, J. R. and Finley, D. and Walters, K. J.},
+  title =    {Rpn1 provides adjacent receptor sites for substrate binding and deubiquitination by the proteasome},
+  journal =  {Science},
+  year =     {2016},
+  volume =   {351},
+  number =   {6275},
+  doi =      {10.1126/science.aad9421},
+  issn =     {1095-9203 (Electronic) 0036-8075 (Linking)},
+  keywords = {DNA-Binding Proteins/metabolism Endopeptidases/metabolism Metabolic Networks and Pathways Models, Molecular Mutation Proteasome Endopeptidase Complex/chemistry/genetics/*metabolism Saccharomyces cerevisiae/*metabolism Saccharomyces cerevisiae Proteins/*chemistry/genetics/*metabolism Ubiquitin-Specific Proteases/metabolism Ubiquitination},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/26912900}
+}
+
+@Article{shibahara04,
+  author =   {Shibahara, T. and Kawasaki, H. and Hirano, H.},
+  title =    {Mass spectrometric analysis of expression of ATPase subunits encoded by duplicated genes in the 19S regulatory particle of rice 26S proteasome},
+  journal =  {Arch. Biochem. Biophys.},
+  year =     {2004},
+  volume =   {421},
+  number =   {1},
+  pages =    {34-41},
+  issn =     {0003-9861 (Print) 0003-9861 (Linking)},
+  keywords = {Adenosine Triphosphatases/*biosynthesis/chemistry/*genetics Amino Acid Sequence Endopeptidases/*biosynthesis/chemistry/*genetics Gene Components/genetics Gene Duplication Genes/genetics Isoenzymes/biosynthesis/chemistry/genetics Molecular Sequence Data Oryza/*enzymology/*genetics Proteasome Endopeptidase Complex Protein Subunits Spectrometry, Mass, Electrospray Ionization/methods},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/14678782}
+}
+
+@Article{sievers11,
+  author =   {Sievers, F. and Wilm, A. and Dineen, D. and Gibson, T. J. and Karplus, K. and Li, W. and Lopez, R. and McWilliam, H. and Remmert, M. and Soding, J. and Thompson, J. D. and Higgins, D. G.},
+  title =    {Fast, scalable generation of high-quality protein multiple sequence alignments using Clustal Omega},
+  journal =  {Mol. Syst. Biol.},
+  year =     {2011},
+  volume =   {7},
+  pages =    {539},
+  doi =      {10.1038/msb.2011.75},
+  issn =     {1744-4292 (Electronic) 1744-4292 (Linking)},
+  keywords = {Algorithms Amino Acid Sequence Base Sequence Data Mining/*methods Databases, Factual Molecular Sequence Data Proteins/*analysis/chemistry Sequence Alignment/*methods Sequence Analysis, Protein/*methods Software *Systems Biology/instrumentation/methods},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/21988835}
+}
+
+@Article{sievers14,
+  author =   {Sievers, F. and Higgins, D. G.},
+  title =    {Clustal Omega, accurate alignment of very large numbers of sequences},
+  journal =  {Methods Mol. Biol.},
+  year =     {2014},
+  volume =   {1079},
+  pages =    {105-16},
+  doi =      {10.1007/978-1-62703-646-7_6},
+  issn =     {1940-6029 (Electronic) 1064-3745 (Linking)},
+  keywords = {Computational Biology/*methods Internet Sequence Alignment/*methods *Software User-Computer Interface},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/24170397}
+}
+
+@Article{tyanova16,
+  author =  {Tyanova, S. and Temu, T. and Sinitcyn, P. and Carlson, A. and Hein, M. Y. and Geiger, T. and Mann, M. and Cox, J.},
+  title =   {The Perseus computational platform for comprehensive analysis of (prote)omics data},
+  journal = {Nat. Methods},
+  year =    {2016},
+  doi =     {10.1038/nmeth.3901},
+  issn =    {1548-7105 (Electronic) 1548-7091 (Linking)},
+  type =    {Journal Article},
+  url =     {http://www.ncbi.nlm.nih.gov/pubmed/27348712}
+}
+
+@Article{uechi14,
+  author =   {Uechi, H. and Hamazaki, J. and Murata, S.},
+  title =    {Characterization of the testis-specific proteasome subunit alpha4s in mammals},
+  journal =  {J. Biol. Chem.},
+  year =     {2014},
+  volume =   {289},
+  number =   {18},
+  pages =    {12365-74},
+  doi =      {10.1074/jbc.M114.558866},
+  issn =     {1083-351X (Electronic) 0021-9258 (Linking)},
+  keywords = {Amino Acid Sequence Animals Blotting, Western Cells, Cultured Cysteine Endopeptidases/chemistry/genetics/*metabolism Gene Expression HEK293 Cells Humans Male Meiosis Mice Mice, Inbred C57BL Mice, Inbred ICR Models, Molecular Molecular Sequence Data Oligopeptides/pharmacology Proteasome Inhibitors/pharmacology Protein Conformation Protein Subunits/genetics/metabolism RNA Interference Reverse Transcriptase Polymerase Chain Reaction Sequence Homology, Amino Acid Spermatozoa/cytology/drug effects/enzymology Testis/cytology/*enzymology Proteasome Sperm Spermatogenesis Testis Ubiquitin},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/24668818}
+}
+
+@Article{unverdorben14,
+  author =   {Unverdorben, P. and Beck, F. and Śledź, P. and Schweitzer, A. and Pfeifer, G. and Plitzko, J. M. and Baumeister, W. and Förster, F.},
+  title =    {Deep classification of a large cryo-EM dataset defines the conformational landscape of the 26S proteasome},
+  journal =  {Proc. Natl. Acad. Sci. U.S.A.},
+  year =     {2014},
+  volume =   {111},
+  number =   {15},
+  pages =    {5544-5549},
+  doi =      {DOI 10.1073/pnas.1403409111},
+  issn =     {0027-8424},
+  keywords = {conformational switching proteolysis proteostasis quality control atp-fueled machines regulatory particle molecular architecture crystal-structure 20s proteasome s proteasome resolution translocation degradation insights},
+  type =     {Journal Article},
+  url =      {<Go to ISI>://WOS:000334288600036}
+}
+
+@Article{ustrell02,
+  author =   {Ustrell, V. and Hoffman, L. and Pratt, G. and Rechsteiner, M.},
+  title =    {PA200, a nuclear proteasome activator involved in DNA repair},
+  journal =  {EMBO J.},
+  year =     {2002},
+  volume =   {21},
+  number =   {13},
+  pages =    {3516-25},
+  doi =      {10.1093/emboj/cdf333},
+  issn =     {0261-4189 (Print) 0261-4189 (Linking)},
+  keywords = {Amino Acid Sequence Animals Cattle Cell Nucleus/chemistry Cysteine Endopeptidases/*metabolism DNA Damage DNA Repair DNA, Complementary/genetics Enzyme Activation Gamma Rays HeLa Cells/enzymology/radiation effects Humans Male Mice Molecular Sequence Data Molecular Weight Multienzyme Complexes/*metabolism Neoplasm Proteins/metabolism Nuclear Proteins/chemistry/isolation & purification/*physiology Organ Specificity Peptides/metabolism Proteasome Endopeptidase Complex Protein Isoforms/chemistry/isolation & purification Rabbits Species Specificity Testis/chemistry},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/12093752}
+}
+
+@Article{vanderlinden15,
+  author =   {VanderLinden, R. T. and Hemmis, C. W. and Schmitt, B. and Ndoja, A. and Whitby, F. G. and Robinson, H. and Cohen, R. E. and Yao, T. and Hill, C. P.},
+  title =    {Structural basis for the activation and inhibition of the UCH37 deubiquitylase},
+  journal =  {Mol. Cell},
+  year =     {2015},
+  volume =   {57},
+  number =   {5},
+  pages =    {901-11},
+  doi =      {10.1016/j.molcel.2015.01.016},
+  issn =     {1097-4164 (Electronic) 1097-2765 (Linking)},
+  keywords = {Amino Acid Sequence Binding Sites/genetics Catalytic Domain Crystallography, X-Ray DNA-Binding Proteins/chemistry/genetics/metabolism Enzyme Activation Humans Membrane Glycoproteins/chemistry/genetics/metabolism *Models, Molecular Molecular Sequence Data Multiprotein Complexes/chemistry/metabolism Proteasome Endopeptidase Complex/chemistry/metabolism Protein Binding Protein Multimerization *Protein Structure, Secondary *Protein Structure, Tertiary Sequence Homology, Amino Acid Ubiquitin/chemistry/metabolism Ubiquitin Thiolesterase/*chemistry/genetics/metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/25702872}
+}
+
+@Article{verma02,
+  author =   {Verma, R. and Aravind, L. and Oania, R. and McDonald, W. H. and Yates, J. R. and Koonin, E. V. and Deshaies, R. J.},
+  title =    {Role of the Rpn11 metalloprotease in deubiquitination and degradation by the 26S proteasome},
+  journal =  {Science},
+  year =     {2002},
+  volume =   {298},
+  number =   {5593},
+  pages =    {611-615},
+  doi =      {DOI 10.1126/science.1075898},
+  issn =     {0036-8075},
+  keywords = {s-phase ubiquitin yeast gene signal transcription proteolysis recognition activation particle},
+  type =     {Journal Article},
+  url =      {<Go to ISI>://WOS:000178634800044}
+}
+
+@Article{vidal96,
+  author =   {Vidal, M. and Braun, P. and Chen, E. and Boeke, J. D. and Harlow, E.},
+  title =    {Genetic characterization of a mammalian protein-protein interaction domain by using a yeast reverse two-hybrid system},
+  journal =  {Proc. Natl. Acad. Sci. U.S.A.},
+  year =     {1996},
+  volume =   {93},
+  number =   {19},
+  pages =    {10321-6},
+  issn =     {0027-8424 (Print) 0027-8424 (Linking)},
+  keywords = {Alleles Animals Binding Sites *Carrier Proteins *Cell Cycle Proteins DNA Primers *DNA-Binding Proteins E2F Transcription Factors E2F1 Transcription Factor Fungal Proteins/biosynthesis Gene Library Genes, Reporter Mammals Molecular Sequence Data Mutagenesis Polymerase Chain Reaction Protein Biosynthesis Protein Multimerization Recombinant Proteins/biosynthesis Repetitive Sequences, Nucleic Acid Retinoblastoma-Binding Protein 1 Saccharomyces cerevisiae/*genetics Selection, Genetic Transcription Factors/*genetics/metabolism Transcription, Genetic Two-Hybrid System Techniques beta-Galactosidase/biosynthesis},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/8816798}
+}
+
+@Article{vierstra09,
+  author =   {Vierstra, R. D.},
+  title =    {The ubiquitin-26S proteasome system at the nexus of plant biology},
+  journal =  {Nat. Rev. Mol. Cell Biol.},
+  year =     {2009},
+  volume =   {10},
+  number =   {6},
+  pages =    {385-97},
+  doi =      {10.1038/nrm2688},
+  issn =     {1471-0080 (Electronic) 1471-0072 (Linking)},
+  keywords = {Arabidopsis/growth & development/*metabolism/parasitology Chromatin/metabolism Ethylenes/metabolism Indoleacetic Acids/metabolism Models, Molecular Morphogenesis Photoperiod Phylogeny Plant Growth Regulators/metabolism Plant Proteins/chemistry/classification/genetics/*metabolism Proteasome Endopeptidase Complex/chemistry/genetics/*metabolism Protein Conformation Proteome/analysis Signal Transduction/physiology Ubiquitin/chemistry/genetics/*metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/19424292}
+}
+
+@Article{wang06,
+  author =   {Wang, D. and Kalume, D. and Pickart, C. and Pandey, A. and Cotter, R. J.},
+  title =    {Identification of protein ubiquitylation by electrospray ionization tandem mass spectrometric analysis of sulfonated tryptic peptides},
+  journal =  {Anal. Chem.},
+  year =     {2006},
+  volume =   {78},
+  number =   {11},
+  pages =    {3681-7},
+  doi =      {10.1021/ac051904b},
+  issn =     {0003-2700 (Print) 0003-2700 (Linking)},
+  keywords = {Peptide Fragments/*analysis/*chemistry/metabolism Protein Binding Spectrometry, Mass, Electrospray Ionization/*methods Sulfur/*analysis/*chemistry Tandem Mass Spectrometry/*methods Trypsin/metabolism Ubiquitin/chemistry/*metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/16737224}
+}
+
+@Article{wani16,
+  author =  {Wani, P. S. and Suppahia, A. and Capalla, X. and Ondracek, A. and Roelofs, J.},
+  title =   {Phosphorylation of the C-terminal tail of proteasome subunit alpha7 is required for binding of the proteasome quality control factor Ecm29},
+  journal = {Sci. Rep.},
+  year =    {2016},
+  volume =  {6},
+  pages =   {27873},
+  doi =     {10.1038/srep27873},
+  issn =    {2045-2322 (Electronic) 2045-2322 (Linking)},
+  type =    {Journal Article},
+  url =     {http://www.ncbi.nlm.nih.gov/pubmed/27302526}
+}
+
+@misc{waskom16,
+   author = {Waskom, Michael},
+   title = {Seaborn},
+   publisher = {Zenodo},
+   DOI = {10.5281/zenodo.45133},
+   year = {2016},
+   type = {Computer Program}
+}
+
+@Article{welk16,
+  author =  {Welk, V. and Coux, O. and Kleene, V. and Abeza, C. and Trumbach, D. and Eickelberg, O. and Meiners, S.},
+  title =   {Inhibition of Proteasome Activity Induces Formation of Alternative Proteasome Complexes},
+  journal = {J. Biol. Chem.},
+  year =    {2016},
+  volume =  {291},
+  number =  {25},
+  pages =   {13147-59},
+  doi =     {10.1074/jbc.M116.717652},
+  issn =    {1083-351X (Electronic) 0021-9258 (Linking)},
+  type =    {Journal Article},
+  url =     {http://www.ncbi.nlm.nih.gov/pubmed/27129254}
+}
+
+@Article{wenger13,
+  author =   {Wenger, C. D. and Coon, J. J.},
+  title =    {A proteomics search algorithm specifically designed for high-resolution tandem mass spectra},
+  journal =  {J. Proteome Res.},
+  year =     {2013},
+  volume =   {12},
+  number =   {3},
+  pages =    {1377-86},
+  doi =      {10.1021/pr301024c},
+  issn =     {1535-3907 (Electronic) 1535-3893 (Linking)},
+  keywords = {*Algorithms Chromatography, Liquid Escherichia coli Proteins/isolation & purification/metabolism Humans *Proteomics Saccharomyces cerevisiae Proteins/isolation & purification/metabolism Tandem Mass Spectrometry/*methods},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/23323968}
+}
+
+@Article{yang04,
+  author =   {Yang, P. and Fu, H. and Walker, J. and Papa, C. M. and Smalle, J. and Ju, Y. M. and Vierstra, R. D.},
+  title =    {Purification of the Arabidopsis 26 S proteasome: biochemical and molecular analyses revealed the presence of multiple isoforms},
+  journal =  {J. Biol. Chem.},
+  year =     {2004},
+  volume =   {279},
+  number =   {8},
+  pages =    {6401-13},
+  doi =      {10.1074/jbc.M311977200},
+  issn =     {0021-9258 (Print) 0021-9258 (Linking)},
+  keywords = {Adenosine Triphosphatases/chemistry Arabidopsis/genetics/*metabolism Binding Sites Cysteine Endopeptidases Databases, Genetic Dose-Response Relationship, Drug Electrophoresis, Gel, Two-Dimensional Electrophoresis, Polyacrylamide Gel Enzyme Inhibitors/pharmacology Fungal Proteins/metabolism Genetic Complementation Test Genetic Vectors Immunoblotting Mass Spectrometry Molecular Sequence Data Multienzyme Complexes/antagonists & inhibitors Mutation Peptide Hydrolases/*chemistry/genetics/*isolation & purification Proteasome Endopeptidase Complex Protein Isoforms Protein Structure, Tertiary Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization Temperature},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/14623884}
+}
+
+@Article{yang16,
+  author =  {Yang, B. J. and Han, X. X. and Yin, L. L. and Xing, M. Q. and Xu, Z. H. and Xue, H. W.},
+  title =   {Arabidopsis PROTEASOME REGULATOR1 is required for auxin-mediated suppression of proteasome activity and regulates auxin signalling},
+  journal = {Nat. Commun.},
+  year =    {2016},
+  volume =  {7},
+  pages =   {11388},
+  doi =     {10.1038/ncomms11388},
+  issn =    {2041-1723 (Electronic) 2041-1723 (Linking)},
+  type =    {Journal Article},
+  url =     {http://www.ncbi.nlm.nih.gov/pubmed/27109828}
+}
+
+@Article{yao02,
+  author =   {Yao, T. and Cohen, R. E.},
+  title =    {A cryptic protease couples deubiquitination and degradation by the proteasome},
+  journal =  {Nature},
+  year =     {2002},
+  volume =   {419},
+  number =   {6905},
+  pages =    {403-7},
+  doi =      {10.1038/nature01071},
+  issn =     {0028-0836 (Print) 0028-0836 (Linking)},
+  keywords = {Adenosine Triphosphatases/chemistry/genetics/metabolism Amino Acid Sequence Animals Blotting, Western Cattle Cell Cycle Proteins/chemistry/genetics/*metabolism Cysteine Endopeptidases/chemistry/genetics/metabolism *Drug Resistance, Multiple Endopeptidases/chemistry/genetics/metabolism Genes, Fungal/genetics Genes, Lethal Kinetics Macromolecular Substances Molecular Sequence Data Multienzyme Complexes/chemistry/genetics/metabolism Ovomucin/chemistry/metabolism Peptide Hydrolases/chemistry/genetics/*metabolism Proteasome Endopeptidase Complex Protein Denaturation Protein Processing, Post-Translational Protein Structure, Tertiary Protein Subunits Saccharomyces cerevisiae/*enzymology/genetics Saccharomyces cerevisiae Proteins/chemistry/genetics/*metabolism Trans-Activators/chemistry/*metabolism Ubiquitins/*metabolism Zinc/metabolism},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/12353037}
+}
+
+@Article{yashiroda08,
+  author =   {Yashiroda, H. and Mizushima, T. and Okamoto, K. and Kameyama, T. and Hayashi, H. and Kishimoto, T. and Niwa, S. and Kasahara, M. and Kurimoto, E. and Sakata, E. and Takagi, K. and Suzuki, A. and Hirano, Y. and Murata, S. and Kato, K. and Yamane, T. and Tanaka, K.},
+  title =    {Crystal structure of a chaperone complex that contributes to the assembly of yeast 20S proteasomes},
+  journal =  {Nat. Struct. Mol. Biol.},
+  year =     {2008},
+  volume =   {15},
+  number =   {3},
+  pages =    {228-36},
+  doi =      {10.1038/nsmb.1386},
+  issn =     {1545-9985 (Electronic) 1545-9985 (Linking)},
+  keywords = {Crystallography, X-Ray Enzyme Precursors/metabolism Molecular Chaperones/*chemistry/metabolism Multienzyme Complexes/chemistry/isolation & purification/metabolism Mutant Proteins/chemistry/isolation & purification/metabolism Mutation/genetics Proteasome Endopeptidase Complex/chemistry/*metabolism Protein Binding Protein Structure, Secondary Saccharomyces cerevisiae/cytology/*enzymology Saccharomyces cerevisiae Proteins/*chemistry/metabolism Structural Homology, Protein},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/18278057}
+}
+
+@article{yu14,
+   author = {Yu, Yanbao and Yu, Yanbao and Smith, Madeline and Pieper, Rembert},
+   title = {A spinnable and automatable StageTip for high throughput peptide desalting and proteomics},
+   journal = {Protocol Exchange},
+   ISSN = {2043-0116},
+   DOI = {10.1038/protex.2014.033},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@Article{zhang06,
+  author =   {Zhang, X. and Henriques, R. and Lin, S. S. and Niu, Q. W. and Chua, N. H.},
+  title =    {Agrobacterium-mediated transformation of Arabidopsis thaliana using the floral dip method},
+  journal =  {Nat. Protoc.},
+  year =     {2006},
+  volume =   {1},
+  number =   {2},
+  pages =    {641-6},
+  doi =      {10.1038/nprot.2006.97},
+  issn =     {1750-2799 (Electronic) 1750-2799 (Linking)},
+  keywords = {Arabidopsis/*genetics/*microbiology Flowers/*genetics/metabolism/microbiology *Gene Transfer Techniques Plant Stems Plants, Genetically Modified Rhizobium/*genetics *Transformation, Genetic},
+  type =     {Journal Article},
+  url =      {http://www.ncbi.nlm.nih.gov/pubmed/17406292}
+}
+
