@@ -4,7 +4,7 @@
 %%
 %% The original source files were:
 %%
-%% merlin.mbs  (with options: `ay,nat,nm-rvvc,nmlm,x90,x9,m10,m0,nmft,nmft-bf,keyxyr,dt-beg,yr-par,yrp-per,note-yr,atit-u,jttl-rm,vol-bf,vnum-x,volp-sp,pp-last,num-xser,jnm-x,btit-rm,bt-rm,bkpg-x,ppx,xedn,nfss,')
+%% merlin.mbs  (with options: `ay,nat,nm-rvvc,nmlm,x90,x9,m10,m0,nmft,nmft-bf,keyxyr,dt-beg,yr-par,yrp-per,note-yr,atit-u,jttl-rm,vol-bf,vnum-x,volp-sp,pp-last,num-xser,jnm-x,btit-rm,bt-rm,bkpg-x,ppx,xedn,etal-it,nfss,')
 %% ----------------------------------------
 %% *** Plant Cell ***
 %% 
@@ -406,8 +406,8 @@ FUNCTION {format.names}
               if$
               t "others" =
                 {
-                  " " * bbl.etal *
                   bib.name.font
+                  " " * bbl.etal emphasize *
                 }
                 {
                   bbl.and
@@ -460,7 +460,7 @@ FUNCTION {format.names.ed}
               t "others" =
                 {
 
-                  " " * bbl.etal *
+                  " " * bbl.etal emphasize *
                 }
                 {
                   bbl.and
@@ -555,7 +555,7 @@ FUNCTION {format.full.names}
               if$
               t "others" =
                 {
-                  " " * bbl.etal *
+                  " " * bbl.etal emphasize *
                 }
                 {
                   numnames #2 >
@@ -1224,13 +1224,13 @@ FUNCTION {format.lab.names}
   s num.names$ duplicate$
   #2 >
     { pop$
-      " " * bbl.etal *
+      " " * bbl.etal emphasize *
     }
     { #2 <
         'skip$
         { s #2 "{ff }{vv }{ll}{ jj}" format.name$ "others" =
             {
-              " " * bbl.etal *
+              " " * bbl.etal emphasize *
             }
             { bbl.and space.word * s #2 "{vv~}{ll}" format.name$
               * }
