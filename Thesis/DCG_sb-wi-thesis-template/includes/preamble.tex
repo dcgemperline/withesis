@@ -159,6 +159,7 @@
 \usepackage{lipsum}
 \usepackage{pdfpages}
 \usepackage{setspace}
+\usepackage{zref-xr}
 %\usepackage{newclude}
 
 
@@ -249,3 +250,12 @@
     \renewcommand{\bibsection}{\@memb@bsec}}{}
 }
 \makeatother
+
+%supplemental figures
+
+\newcommand{\beginsupplement}{%
+        \setcounter{table}{0}
+        \renewcommand{\thetable}{3.S\arabic{table}}%
+        \setcounter{figure}{0}
+        \renewcommand{\thefigure}{3.S\arabic{figure}}%
+     }
