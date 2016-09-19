@@ -512,7 +512,7 @@ FUNCTION {format.note}
 }
 
 FUNCTION {format.title}
-{ title
+{title
   duplicate$ empty$ 'skip$
     { "t" change.case$ }
   if$
