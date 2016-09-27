@@ -149,23 +149,23 @@
 \def\advisortitle#1{\gdef\@advisortitle{#1}}
 \def\advisorname#1{\gdef\@advisorname{#1}}
 \gdef\@advisortitle{Professor}
-\gdef\@advisorname{Cheer E.\ Place}
+\gdef\@advisorname{Patrick Masson}
 
-%\def\umiabstract{
-%	\addcontentsline{toc}{chapter}{Abstract}
-%             \thispagestyle{empty}
-%                  \addtocounter{page}{-1}
-%                \begin{center}
-%                  {\textbf{\expandafter\uppercase\expandafter{\@title}}}\\
-%                  \vspace{12pt}
-%                  \@author \\
-%                  \vspace{12pt}
-%                  Under the supervision of \@advisortitle\ \@advisorname\\
-%                  At the University of Wisconsin-Madison
-%               \end{center}
-%}
+\def\umiabstract{
+	\addcontentsline{toc}{chapter}{Abstract}
+             \thispagestyle{empty}
+                  \addtocounter{page}{-1}
+                \begin{center}
+                  {\textbf{\expandafter\uppercase\expandafter{\@title}}}\\
+                  \vspace{12pt}
+                  \@author \\
+                  \vspace{12pt}
+                  Under the supervision of \@advisortitle\ \@advisorname\\
+                  At the University of Wisconsin-Madison
+               \end{center}
+}
 
-%\def\endumiabstract{\vfill \hfill\@advisorname\par\newpage}
+\def\endumiabstract{\vfill \hfill\@advisorname\par\newpage}
 
 
 %============================================================================
